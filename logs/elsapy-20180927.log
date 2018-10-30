@@ -1,0 +1,101 @@
+2018-09-27 11:18:21,183 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:23:45,887 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:25:00,073 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:25:00,073 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:25:00,073 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:25:00,074 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:25:00,076 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:25:01,073 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/AUTHOR_ID/7202909704
+2018-09-27 11:25:03,083 - elsapy.elsentity - WARNING - HTTP 405 Error from http://api.elsevier.com/content/author/AUTHOR_ID/7202909704
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+<html><head><title>Apache Tomcat/7.0.82 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.82</h3></body></html>
+2018-09-27 11:25:16,879 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:25:16,879 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:25:16,880 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:25:16,880 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:25:16,881 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:25:17,879 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/AUTHOR_ID/7202909704
+2018-09-27 11:25:19,794 - elsapy.elsentity - WARNING - HTTP 405 Error from http://api.elsevier.com/content/author/AUTHOR_ID/7202909704
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+<html><head><title>Apache Tomcat/7.0.82 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.82</h3></body></html>
+2018-09-27 11:25:59,104 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:25:59,104 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:25:59,105 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:25:59,105 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:25:59,106 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:26:00,108 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/AUTHOR_ID/7202909704
+2018-09-27 11:26:01,992 - elsapy.elsentity - WARNING - HTTP 405 Error from http://api.elsevier.com/content/author/AUTHOR_ID/7202909704
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+<html><head><title>Apache Tomcat/7.0.82 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.82</h3></body></html>
+2018-09-27 11:27:47,029 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:27:47,030 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:27:47,030 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:27:47,030 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:27:47,031 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:27:48,034 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+2018-09-27 11:27:49,887 - elsapy.elsentity - WARNING - HTTP 405 Error from http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+<html><head><title>Apache Tomcat/7.0.82 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.82</h3></body></html>
+2018-09-27 11:28:14,257 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:28:14,257 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:28:14,257 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:28:14,258 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:28:14,259 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:28:15,258 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+2018-09-27 11:28:16,929 - elsapy.elsentity - WARNING - HTTP 405 Error from http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+<html><head><title>Apache Tomcat/7.0.82 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.82</h3></body></html>
+2018-09-27 11:28:46,746 - elsapy.elsentity - WARNING - No data to write for http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+2018-09-27 11:29:02,834 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+2018-09-27 11:29:04,673 - elsapy.elsentity - WARNING - HTTP 405 Error from http://api.elsevier.com/content/author/AUTHOR_ID/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+<html><head><title>Apache Tomcat/7.0.82 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 405 - Request method 'GET' not supported</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Request method 'GET' not supported</u></p><p><b>description</b> <u>The specified HTTP method is not allowed for the requested resource.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.82</h3></body></html>
+2018-09-27 11:29:57,329 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:29:57,330 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:29:57,330 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:29:57,330 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:29:57,331 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:29:58,334 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-09-27 11:30:00,553 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2018-09-27 11:30:15,417 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:30:15,419 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:30:15,420 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:30:15,420 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:30:15,421 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:30:16,423 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-09-27 11:30:18,508 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2018-09-27 11:37:50,854 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:37:50,855 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:37:50,855 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:37:50,855 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:37:50,856 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:37:51,859 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-09-27 11:37:53,915 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2018-09-27 11:38:10,557 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:38:10,557 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:38:10,557 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:38:10,558 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:38:10,559 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:38:11,558 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-09-27 11:38:13,447 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2018-09-27 11:38:14,452 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/7004367821
+2018-09-27 11:38:15,696 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/7004367821
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2018-09-27 11:46:52,602 - elsapy.elsclient - INFO - Module loaded.
+2018-09-27 11:46:52,603 - elsapy.elsentity - INFO - Module loaded.
+2018-09-27 11:46:52,603 - elsapy.elsprofile - INFO - Module loaded.
+2018-09-27 11:46:52,603 - elsapy.elsdoc - INFO - Module loaded.
+2018-09-27 11:46:52,604 - elsapy.elssearch - INFO - Module loaded.
+2018-09-27 11:46:53,607 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-09-27 11:46:55,300 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}

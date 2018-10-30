@@ -1,0 +1,24 @@
+2018-10-22 14:06:16,665 - elsapy.elsclient - INFO - Module loaded.
+2018-10-22 14:06:16,666 - elsapy.elsentity - INFO - Module loaded.
+2018-10-22 14:06:16,666 - elsapy.elsprofile - INFO - Module loaded.
+2018-10-22 14:06:16,667 - elsapy.elsdoc - INFO - Module loaded.
+2018-10-22 14:06:16,668 - elsapy.elssearch - INFO - Module loaded.
+2018-10-22 14:06:17,666 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-10-22 14:06:19,505 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2018-10-22 14:09:19,160 - elsapy.elsclient - INFO - Module loaded.
+2018-10-22 14:09:19,160 - elsapy.elsentity - INFO - Module loaded.
+2018-10-22 14:09:19,160 - elsapy.elsprofile - INFO - Module loaded.
+2018-10-22 14:09:19,161 - elsapy.elsdoc - INFO - Module loaded.
+2018-10-22 14:09:19,162 - elsapy.elssearch - INFO - Module loaded.
+2018-10-22 14:09:20,160 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-10-22 14:09:27,052 - elsapy.elsclient - INFO - Module loaded.
+2018-10-22 14:09:27,053 - elsapy.elsentity - INFO - Module loaded.
+2018-10-22 14:09:27,053 - elsapy.elsprofile - INFO - Module loaded.
+2018-10-22 14:09:27,053 - elsapy.elsdoc - INFO - Module loaded.
+2018-10-22 14:09:27,054 - elsapy.elssearch - INFO - Module loaded.
+2018-10-22 14:09:28,057 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/15056688900
+2018-10-22 14:09:29,886 - elsapy.elsentity - WARNING - HTTP 401 Error from http://api.elsevier.com/content/author/author_id/15056688900
+and using headers {'X-ELS-APIKey': 'e3de4eeb2b27bef1c2435a7147eeab8a', 'User-Agent': 'elsapy-v0.4.6', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
