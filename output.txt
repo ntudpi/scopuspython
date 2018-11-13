@@ -1,994 +1,121 @@
-<tr>
-<td>Superlight inverse Doppler effect</td>
-<td>Shi X., Lin X., Gao F., Yang Z., Zhang B., Kaminer I., Yang Z., Gao F., Joannopoulos J., Soljačić M., Zhang B.</td>
-<td>2018</td>
-<td>Nature Physics</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Interferenceless Polarization Splitting Through Nanoscale van der Waals Heterostructures</td>
-<td>Shah S., Shen L., Renuka M., Chen H., Shah S., Shen L., Renuka M., Chen H., Lin X., Zhang B., Zhang B.</td>
-<td>2018</td>
-<td>Physical Review Applied</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Flexible Photonic Topological Insulator</td>
-<td>Gao Z., Zhang Y., Zhang B., Gao F., Luo Y., Zhang B.</td>
-<td>2018</td>
-<td>Advanced Optical Materials</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Valley Waves Sorting and Routing Based on Photonic Topological Insulators</td>
-<td>Lai K., Yu Y., Han Y., Shvets G., Lai K., Gao F., Zhang B.</td>
-<td>2018</td>
-<td>2018 Conference on Lasers and Electro-Optics, CLEO 2018 - Proceedings</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Broadband negative refraction of hyperbolic highly squeezed graphene plasmons</td>
-<td>Jiang J., Lin X., Zhang B., Yang Y., Kaminer I., Soljacic M., Zhang B.</td>
-<td>2018</td>
-<td>2018 Conference on Lasers and Electro-Optics, CLEO 2018 - Proceedings</td>
-<td>0</td>
-</tr>
-<tr>
-<td>The Superlight Inverse Doppler Effect</td>
-<td>Shi X., Lin X., Kaminer I., Gao F., Yang Z., Zhang B., Joannopoulos J., Soljacic M., Zhang B.</td>
-<td>2018</td>
-<td>2018 Conference on Lasers and Electro-Optics, CLEO 2018 - Proceedings</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Controlling Cherenkov Angles with Resonance Transition Radiation</td>
-<td>Lin X., Zhang B., Easo S., Shen Y., Joannopoulos J., Soljacic M., Kaminer I., Chen H., Zhang B.</td>
-<td>2018</td>
-<td>2018 Conference on Lasers and Electro-Optics, CLEO 2018 - Proceedings</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Reflection forbidden and refraction reversed in an artificial crystal</td>
-<td>Zhang B.</td>
-<td>2018</td>
-<td>Nature</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Spoof Plasmonics: From Metamaterial Concept to Topological Description</td>
-<td>Gao Z., Gao F., Zhang B., Wu L., Luo Y., Gao F., Zhang B.</td>
-<td>2018</td>
-<td>Advanced Materials</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Spin Momentum–Locked Surface States in Metamaterials without Topological Transition</td>
-<td>Peng L., Wang G., Chen Y., Yang Y., Chen H., Wang Z., Yu F., Shen N., Soukoulis C., Zhang B., Soukoulis C.</td>
-<td>2018</td>
-<td>Laser and Photonics Reviews</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Controlling Cherenkov angles with resonance transition radiation</td>
-<td>Lin X., Chen H., Lin X., Zhang B., Easo S., Shen Y., Joannopoulos J., Soljačić M., Zhang B., Kaminer I.</td>
-<td>2018</td>
-<td>Nature Physics</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Giant Asymmetric Radiation from an Ultrathin Bianisotropic Metamaterial</td>
-<td>Peng L., Wang K., Wang G., Yang Y., Chen H., Chen Y., Zhang B.</td>
-<td>2018</td>
-<td>Advanced Science</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Group-Velocity-Controlled and Gate-Tunable Directional Excitation of Polaritons in Graphene-Boron Nitride Heterostructures</td>
-<td>Jiang Y., Chen H., Lin X., Zhang B., Low T., Zhang B.</td>
-<td>2018</td>
-<td>Laser and Photonics Reviews</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Multifrequency Superscattering from Subwavelength Hyperbolic Structures</td>
-<td>Qian C., Yang Y., Gao F., Li E., Chen H., Qian C., Gao F., Li E., Chen H., Lin X., Gao F., Zhang B., Lopez J., Shen Y., Kaminer I., Soljačić M., Zhang B.</td>
-<td>2018</td>
-<td>ACS Photonics</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Acoustic valley edge states in a graphene-like resonator system</td>
-<td>Yang Y., Yang Z., Zhang B., Zhang B.</td>
-<td>2018</td>
-<td>Journal of Applied Physics</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Tunable excitonic emission of monolayer WS2 for the optical detection of DNA nucleobases</td>
-<td>Feng S., Peimyoo N., Chen Y., Shang J., Zou C., Cao B., Wu L., Zhang J., Wang X., Xiong Q., Zhang B., Yu T., Cong C., Eginligil M., Ananthanarayanan A., Chen P., Peimyoo N.</td>
-<td>2018</td>
-<td>Nano Research</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Topologically protected refraction of robust kink states in valley photonic crystals</td>
-<td>Gao F., Xue H., Yang Z., Lin X., Chong Y., Zhang B., Lai K., Yu Y., Shvets G., Lai K., Chong Y., Zhang B.</td>
-<td>2018</td>
-<td>Nature Physics</td>
-<td>17</td>
-</tr>
-<tr>
-<td>Bending, splitting, compressing and expanding of electromagnetic waves in infinitely anisotropic media</td>
-<td>Zhang Y., Zhang B., Zhang B.</td>
-<td>2018</td>
-<td>Journal of Optics (United Kingdom)</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Subwavelength wave manipulation in a thin surface-wave bandgap crystal</td>
-<td>Gao Z., Zhang B., Wang Z., Zhang B.</td>
-<td>2018</td>
-<td>Optics Letters</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Broadband negative refraction of hyperbolic highly squeezed graphene plasmons</td>
-<td>Jiang J., Lin X., Zhang B., Yang Y., Kaminer I., Soljacˇic´ M., Zhang B.</td>
-<td>2018</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Backward Phase Matching for Second Harmonic Generation in Negative-Index Conformal Surface Plasmonic Metamaterials</td>
-<td>Liu L., Wu L., Zhang J., Luo Y., Liu L., Liu L., Li Z., Zhang B.</td>
-<td>2018</td>
-<td>Advanced Science</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Valley waves sorting and routing based on photonic topological insulators</td>
-<td>Lai K., Yu Y., Han Y., Shvets G., Lai K., Gao F., Zhang B.</td>
-<td>2018</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>The superlight inverse doppler effect</td>
-<td>Shi X., Lin X., Gao F., Yang Z., Zhang B., Kaminer I., Joannopoulos J., Soljacic M., Zhang B.</td>
-<td>2018</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Confined transverse electric phonon polaritons in hexagonal boron nitrides</td>
-<td>Musa M., Renuka M., Li R., Wang H., Chen H., Lin X., Zhang B., Wang H., Li E., Chen H., Zhang B.</td>
-<td>2018</td>
-<td>2D Materials</td>
-<td>9</td>
-</tr>
-<tr>
-<td>Controlling Cherenkov angles with resonance transition radiation</td>
-<td>Lin X., Zhang B., Easo S., Shen Y., Joannopoulos J., Soljacˇic´ M., Kaminer I., Chen H., Zhang B.</td>
-<td>2018</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Valley surface-wave photonic crystal and its bulk/edge transport</td>
-<td>Gao Z., Yang Z., Gao F., Xue H., Yang Y., Zhang B., Dong J., Zhang B.</td>
-<td>2017</td>
-<td>Physical Review B</td>
-<td>6</td>
-</tr>
-<tr>
-<td>Splashing transients of 2D plasmons launched by swift electrons</td>
-<td>Lin X., Shi X., Gao F., Yang Z., Gao Z., Zhang B., Lin X., Kaminer I., Joannopoulos J., Soljacic M., Chen H., Buljan H., Zhang B.</td>
-<td>2017</td>
-<td>2017 Conference on Lasers and Electro-Optics, CLEO 2017 - Proceedings</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Weyl points in a magnetic tetrahedral photonic crystal: Erratum (Opt. Express (2017) 25:14 (15772-15777) DOI: 10.1364/OE.25.015772)</td>
-<td>Yang Z., Gao F., Chong Y., Zhang B., Xiao M., Lu L., Chong Y., Zhang B.</td>
-<td>2017</td>
-<td>Optics Express</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Experimental demonstration of Fabry-Perot open resonators in a surface-wave bandgap crystal</td>
-<td>Gao Z., Gao F., Xu H., Zhang Y., Zhang B., Zhang B.</td>
-<td>2017</td>
-<td>Applied Physics Letters</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Interaction between graphene-coated nanowires revisited with transformation optics</td>
-<td>Jiang J., Zhang B., Zhang D., Luo Y., Zhang B.</td>
-<td>2017</td>
-<td>Optics Letters</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Forward/Backward Switching of Plasmonic Wave Propagation Using Sign-Reversal Coupling</td>
-<td>Gao Z., Gao F., Zhang Y., Xu H., Luo Y., Zhang B.</td>
-<td>2017</td>
-<td>Advanced Materials</td>
-<td>9</td>
-</tr>
-<tr>
-<td>Weyl points in a magnetic tetrahedral photonic crystal</td>
-<td>Yang Z., Gao F., Chong Y., Zhang B., Xiao M., Lu L., Chong Y., Zhang B.</td>
-<td>2017</td>
-<td>Optics Express</td>
-<td>3</td>
-</tr>
-<tr>
-<td>All-angle negative refraction of highly squeezed plasmon and phonon polaritons in graphene-boron nitride heterostructures</td>
-<td>Lin X., Chen H., Lin X., Rivera N., Shen Y., Kaminer I., Joannopoulos J., Soljačic M., Yang Y., López J., Chen H., Lin X., Zhang B., Zhang B.</td>
-<td>2017</td>
-<td>Proceedings of the National Academy of Sciences of the United States of America</td>
-<td>45</td>
-</tr>
-<tr>
-<td>Strain-Induced Gauge Field and Landau Levels in Acoustic Structures</td>
-<td>Yang Z., Gao F., Yang Y., Zhang B., Zhang B.</td>
-<td>2017</td>
-<td>Physical Review Letters</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Realizing type-II Weyl points in an optical lattice</td>
-<td>Shastri K., Yang Z., Zhang B., Zhang B.</td>
-<td>2017</td>
-<td>Physical Review B</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Splashing transients of 2D plasmons launched by swift electrons</td>
-<td>Lin X., Chen H., Lin X., Kaminer I., Joannopoulos J., Soljačić M., Shi X., Gao F., Yang Z., Gao Z., Zhang B., Buljan H., Zhang B.</td>
-<td>2017</td>
-<td>Science Advances</td>
-<td>25</td>
-</tr>
-<tr>
-<td>Splashing transients of 2D plasmons launched by swift electrons</td>
-<td>Lin X., Shi X., Gao F., Yang Z., Gao Z., Zhang B., Lin X., Kaminer I., Joannopoulos J., Soljacic M., Chen H., Buljan H., Zhang B.</td>
-<td>2017</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Experimental demonstration of broadband reflectionless diffraction-free electromagnetic wave routing</td>
-<td>Zhang Y., Gao Z., Gao F., Shi X., Xu H., Zhang B., Luo Y., Zhang B.</td>
-<td>2016</td>
-<td>Physical Review B</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Invisibility Dips of Near-Field Energy Transport in a Spoof Plasmonic Metadimer</td>
-<td>Gao F., Gao Z., Zhang B., Luo Y., Zhang B.</td>
-<td>2016</td>
-<td>Advanced Functional Materials</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Synthetic-gauge-field-induced Dirac semimetal state in an acoustic resonator system</td>
-<td>Yang Z., Gao F., Shi X., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>New Journal of Physics</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Acoustic Type-II Weyl Nodes from Stacking Dimerized Chains</td>
-<td>Yang Z., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Physical Review Letters</td>
-<td>23</td>
-</tr>
-<tr>
-<td>Experimental demonstration of a band-notched line-defect waveguide in a surface-wave photonic crystal</td>
-<td>Gao Z., Gao F., Xu H., Zhang Y., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Applied Physics Letters</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Resolution criteria in double-slit microscopic imaging experiments</td>
-<td>You S., Zhang B., You S., Kuang C., Zhang B.</td>
-<td>2016</td>
-<td>Scientific Reports</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Topological water wave states in a one-dimensional structure</td>
-<td>Yang Z., Gao F., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Scientific Reports</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Translation and Rotation of Transformation Media under Electromagnetic Pulse</td>
-<td>Gao F., Shi X., Lin X., Xu H., Zhang B., Lin X., Zhang B.</td>
-<td>2016</td>
-<td>Scientific Reports</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Probing topological protection using a designer surface plasmon structure</td>
-<td>Gao F., Gao Z., Shi X., Yang Z., Lin X., Xu H., Chong Y., Zhang B., Lin X., Chen H., Joannopoulos J., Soljaaia M., Chen H., Lu L., Lu L., Chong Y., Zhang B.</td>
-<td>2016</td>
-<td>Nature Communications</td>
-<td>67</td>
-</tr>
-<tr>
-<td>Deep-subwavelength magnetic-coupling-dominant interaction among magnetic localized surface plasmons</td>
-<td>Gao Z., Gao F., Zhang Y., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Physical Review B</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Frequency-selective propagation of localized spoof surface plasmons in a graded plasmonic resonator chain</td>
-<td>Gao Z., Gao F., Shastri K., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Scientific Reports</td>
-<td>9</td>
-</tr>
-<tr>
-<td>High-order spoof localized surface plasmons supported on a complementary metallic spiral structure</td>
-<td>Gao Z., Gao F., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Scientific Reports</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Plasmonic ship-wake on graphene</td>
-<td>Shi X., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>2015 International Symposium on Antennas and Propagation, ISAP 2015</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Seamless integration of global Dirichlet-to-Neumann boundary condition and spectral elements for transformation electromagnetics</td>
-<td>Yang Z., Wang L., Rong Z., Wang B., Zhang B.</td>
-<td>2016</td>
-<td>Computer Methods in Applied Mechanics and Engineering</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Experimental verification of free-space singular boundary conditions in an invisibility cloak</td>
-<td>Wu Q., Gao F., Song Z., Lin X., Zhang Y., Zhang B., Wu Q., Chen H., Wu Q., Zhang B.</td>
-<td>2016</td>
-<td>Journal of Optics (United Kingdom)</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Ultra-broadband carpet cloak for transverse-electric polarization</td>
-<td>Deng Y., Xu S., Zhang R., Zheng B., Chen H., Chen H., Yu F., Gao F., Zhang B.</td>
-<td>2016</td>
-<td>Journal of Optics (United Kingdom)</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Multi-directional plasmonic surface-wave splitters with full bandwidth isolation</td>
-<td>Gao Z., Gao F., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Applied Physics Letters</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Optical bistability in a nonlinear-shell-coated metallic nanoparticle</td>
-<td>Chen H., Gao L., Chen H., Zhang Y., Zhang B., Zhang B., Gao L.</td>
-<td>2016</td>
-<td>Scientific Reports</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Loss induced amplification of graphene plasmons</td>
-<td>Lin X., Li R., Li E., Zhang X., Chen H., Gao F., Zhang B.</td>
-<td>2016</td>
-<td>Optics Letters</td>
-<td>20</td>
-</tr>
-<tr>
-<td>Guiding, bending, and splitting of coupled defect surface modes in a surface-wave photonic crystal</td>
-<td>Gao Z., Gao F., Zhang B., Zhang B.</td>
-<td>2016</td>
-<td>Applied Physics Letters</td>
-<td>15</td>
-</tr>
-<tr>
-<td>Coupling tuning in spoof surface plasmon networks</td>
-<td>Gao Z., Gao F., Zhang B.</td>
-<td>2016</td>
-<td>Proceedings of the 2015 IEEE 4th Asia-Pacific Conference on Antennas and Propagation, APCAP 2015</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Transformation cloaks for surface electromagnetic waves</td>
-<td>Xu H., Sun H., Zhang B., Su X., Chen H.</td>
-<td>2016</td>
-<td>Proceedings of the 2015 IEEE 4th Asia-Pacific Conference on Antennas and Propagation, APCAP 2015</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Complementary structure for designer localized surface plasmons</td>
-<td>Gao Z., Gao F., Zhang Y., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>Applied Physics Letters</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Active thermal cloak</td>
-<td>Nguyen D., Xu H., Zhang Y., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>Applied Physics Letters</td>
-<td>36</td>
-</tr>
-<tr>
-<td>Caustic graphene plasmons with Kelvin angle</td>
-<td>Shi X., Lin X., Gao F., Xu H., Yang Z., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>Physical Review B - Condensed Matter and Materials Physics</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Experimental demonstration of high-order magnetic localized spoof surface plasmons</td>
-<td>Gao Z., Gao F., Zhang Y., Shi X., Yang Z., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>Applied Physics Letters</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Phase-preserved macroscopic visible-light carpet cloaking beyond two dimensions</td>
-<td>Chu C., Zhai X., Wang P., Luo Y., Chu C., Zhai X., Lee C., Wang P., Tsai D., Luo Y., Lee C., Tsai D., Duan Y., Tsai D., Zhang B., Zhang B., Luo Y.</td>
-<td>2015</td>
-<td>Laser and Photonics Reviews</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Broadband surface-wave transformation cloak</td>
-<td>Xu S., Jiang Y., Chen H., Xu S., Jiang Y., Chen H., Xu H., Sun H., Zhang B., Xu H., Sun H., Zhang B., Gao H., Yu F., Joannopoulos J., Soljačić M., Chen H.</td>
-<td>2015</td>
-<td>Proceedings of the National Academy of Sciences of the United States of America</td>
-<td>25</td>
-</tr>
-<tr>
-<td>Electromagnetic detection of a perfect carpet cloak</td>
-<td>Shi X., Gao F., Lin X., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>Scientific Reports</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Design, implementation, and extension of thermal invisibility cloaks</td>
-<td>Zhang Y., Xu H., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>AIP Advances</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Topological Acoustics</td>
-<td>Yang Z., Gao F., Shi X., Lin X., Gao Z., Chong Y., Zhang B., Chong Y., Zhang B.</td>
-<td>2015</td>
-<td>Physical Review Letters</td>
-<td>227</td>
-</tr>
-<tr>
-<td>Vertical transport of subwavelength localized surface electromagnetic modes</td>
-<td>Gao F., Gao Z., Zhang Y., Shi X., Yang Z., Zhang B., Zhang B.</td>
-<td>2015</td>
-<td>Laser and Photonics Reviews</td>
-<td>24</td>
-</tr>
-<tr>
-<td>Dispersion-tunable designer-plasmonic resonator with enhanced high-order resonances</td>
-<td>Gao F., Gao Z., Shi X., Yang Z., Lin X., Zhang B., Zhang B., Lin X.</td>
-<td>2015</td>
-<td>Optics Express</td>
-<td>27</td>
-</tr>
-<tr>
-<td>Multipolar Fano Resonances and Fano-Assisted Optical Activity in Silver Nanorice Heterodimers</td>
-<td>Tian X., Zhang B., Zhang B., Fang Y.</td>
-<td>2014</td>
-<td>ACS Photonics</td>
-<td>31</td>
-</tr>
-<tr>
-<td>Realization of deep subwavelength resolution with singular media</td>
-<td>Xu S., Jiang Y., Wang J., Lin S., Chen H., Xu S., Jiang Y., Wang J., Lin S., Chen H., Xu S., Xu H., Zhang B., Xu S., Xu H., Zhang B.</td>
-<td>2014</td>
-<td>Scientific Reports</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Atomically thin nonreciprocal optical isolation</td>
-<td>Lin X., Wang Z., Chen H., Lin X., Wang Z., Chen H., Lin X., Gao F., Zhang B., Zhang B.</td>
-<td>2014</td>
-<td>Scientific Reports</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Ultrathin three-dimensional thermal cloak</td>
-<td>Xu H., Shi X., Gao F., Sun H., Zhang B., Sun H., Zhang B.</td>
-<td>2014</td>
-<td>Physical Review Letters</td>
-<td>148</td>
-</tr>
-<tr>
-<td>Wide-angle polarization-insensitive transparency of a continuous opaque metal film for nearinfrared light</td>
-<td>Song Z., Zhang B., Zhang B.</td>
-<td>2014</td>
-<td>Optics Express</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Terahertz transparency of optically opaque metallic films</td>
-<td>Song Z., Gao Z., Zhang Y., Zhang B., Zhang B.</td>
-<td>2014</td>
-<td>EPL</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Electromagnetic invisibility cloaks based on inverse design method</td>
-<td>Xu S., Jiang Y., Yan Q., Cheng X., Chen H., Chen H., Yu F., Zhang B.</td>
-<td>2014</td>
-<td>Proceedings of 3rd Asia-Pacific Conference on Antennas and Propagation, APCAP 2014</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Waveguide design and application with transformation optics</td>
-<td>Xu H., Sun H., Zhang B.</td>
-<td>2013</td>
-<td>Science China Information Sciences</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Invisibility cloaks from forward design to inverse design</td>
-<td>Xu S., Chen H., Xu S., Wang Y., Chen H., Xu S., Wang Y., Chen H., Xu S., Zhang B., Zhang B.</td>
-<td>2013</td>
-<td>Science China Information Sciences</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Transformation optics based lift for large view-angle, phase-undisturbed optical imaging</td>
-<td>Chu C., Tsai J., Luo Y., Chu C., Luo Y., Chen Z., Duan Y., Barbastathis G., Chen Z., Duan Y., Han T., Qiu C., Barbastathis G., Zhang B., Zhang B.</td>
-<td>2013</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Ray-optics cloaking devices for large objects in incoherent natural light</td>
-<td>Chen H., Zheng B., Shen L., Chen H., Zheng B., Shen L., Zhang X., Chen H., Zheng B., Shen L., Zhang X., Wang H., Zheludev N., Zheludev N., Zhang B., Zhang B.</td>
-<td>2013</td>
-<td>Nature Communications</td>
-<td>81</td>
-</tr>
-<tr>
-<td>Unidirectional surface plasmons in nonreciprocal graphene</td>
-<td>Lin X., Chen H., Lin X., Xu Y., Hao R., Chen H., Li E., Lin X., Zhang B., Chen H., Lin X., Xu Y., Chen H., Zhang B.</td>
-<td>2013</td>
-<td>New Journal of Physics</td>
-<td>15</td>
-</tr>
-<tr>
-<td>Classical imaging theory of a microlens with super-resolution</td>
-<td>Duan Y., Duan Y., Barbastathis G., Barbastathis G., Zhang B.</td>
-<td>2013</td>
-<td>Optics Letters</td>
-<td>38</td>
-</tr>
-<tr>
-<td>Phase-preserved optical elevator</td>
-<td>Luo Y., Chu C., Luo Y., Chu C., Zhang B., Zhang B., Han T., Barbastathis G., Chen Z., Duan Y., Chen Z., Duan Y., Barbastathis G., Qiu C.</td>
-<td>2013</td>
-<td>Optics Express</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Ab initio study of electronic and optical behavior of two-dimensional silicon carbide</td>
-<td>Lin X., Lin S., Xu Y., Hakro A., Luo J., Li E., Chen H., Lin X., Chen H., Lin X., Lin S., Xu Y., Chen H., Lin X., Lin S., Xu Y., Hakro A., Luo J., Li E., Chen H., Hasan T., Zhang B., Yu B.</td>
-<td>2013</td>
-<td>Journal of Materials Chemistry C</td>
-<td>63</td>
-</tr>
-<tr>
-<td>Ab initio optical study of graphene on hexagonal boron nitride and fluorographene substrates</td>
-<td>Lin X., Xu Y., Hakro A., Hao R., Chen H., Lin X., Chen H., Lin X., Xu Y., Hakro A., Chen H., Xu Y., Chen H., Hasan T., Zhang B.</td>
-<td>2013</td>
-<td>Journal of Materials Chemistry C</td>
-<td>22</td>
-</tr>
-<tr>
-<td>Affine nonmagnetic transformation design and its application</td>
-<td>Xu H., Zhang B., Sun H., Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2012</td>
-<td>2012 Conference on Lasers and Electro-Optics, CLEO 2012</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Electrodynamics of transformation-based invisibility cloaking</td>
-<td>Zhang B., Zhang B.</td>
-<td>2012</td>
-<td>Light: Science and Applications</td>
-<td>33</td>
-</tr>
-<tr>
-<td>Affine nonmagnetic transformation design and its application</td>
-<td>Xu H., Zhang B., Sun H., Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2012</td>
-<td>CLEO: Science and Innovations, CLEO_SI 2012</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Affine nonmagnetic transformation design and its application</td>
-<td>Xu H., Zhang B., Sun H., Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2012</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Affine nonmagnetic transformation design and its application</td>
-<td>Xu H., Zhang B., Sun H., Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2012</td>
-<td>CLEO: Applications and Technology, CLEO_AT 2012</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Large scale cylindrical cloak in free space without superluminal propagation</td>
-<td>Chen H., Xu S., Zhang R., Shen Z., Zhang X., Chen H., Xu S., Zhang R., Shen Z., Xu Y., Zhang X., Zhang B., Moser H.</td>
-<td>2012</td>
-<td>Proceedings of the 2012 International Workshop on Metamaterials, Meta 2012</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Experimental demonstration of a free-space cylindrical cloak without superluminal propagation</td>
-<td>Xu S., Xu Y., Chen H., Xu S., Cheng X., Xi S., Zhang R., Shen Z., Xu Y., Zhang X., Chen H., Xu S., Cheng X., Xi S., Zhang R., Xu Y., Zhang X., Chen H., Xu S., Zhang B., Xu S., Zhang B., Moser H., Huang Z., Yu F.</td>
-<td>2012</td>
-<td>Physical Review Letters</td>
-<td>61</td>
-</tr>
-<tr>
-<td>Implementation of the GRIN solid immersion lens</td>
-<td>Hsieh C., Tian L., Lu Y., Barbastathis G., Zhang B.</td>
-<td>2012</td>
-<td>International Conference on Optical MEMS and Nanophotonics</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Radiation-Suppressed plasmonic open resonators designed by nonmagnetic transformation optics</td>
-<td>Xu H., Wang X., Yu T., Sun H., Zhang B.</td>
-<td>2012</td>
-<td>Scientific Reports</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Design and fabrication of dielectric nanostructured bending adaptor for optical frequencies</td>
-<td>Lu Y., Hsieh C., Barbastathis G., Xu H., Zhang B., Sun H., Gao H., Barbastathis G.</td>
-<td>2012</td>
-<td>International Conference on Optical MEMS and Nanophotonics</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Ultraviolet dielectric hyperlens with layered graphene and boron nitride</td>
-<td>Wang J., Xu Y., Chen H., Wang J., Chen H., Zhang B., Wang J., Zhang B., Xu Y., Chen H.</td>
-<td>2012</td>
-<td>Journal of Materials Chemistry</td>
-<td>20</td>
-</tr>
-<tr>
-<td>Design of thin-film photonic metamaterial lúneburg lens using analytical approach</td>
-<td>Gao H., Zhang B., Barbastathis G., Zhang B., Johnson S., Barbastathis G.</td>
-<td>2012</td>
-<td>Optics Express</td>
-<td>31</td>
-</tr>
-<tr>
-<td>Dielectric waveguide bending adapter with ideal transmission: Practical design strategy of area-preserving affine transformation optics</td>
-<td>Xu H., Zhang B., Yu T., Sun H., Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2012</td>
-<td>Journal of the Optical Society of America B: Optical Physics</td>
-<td>17</td>
-</tr>
-<tr>
-<td>Guidance condition correction into the design of two dimensional nanophotonic devices</td>
-<td>Gao H., Johnson S., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2011</td>
-<td>International Conference on Optical MEMS and Nanophotonics</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Hamiltonian description of spatial solitons</td>
-<td>Gao H., Tian L., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2011</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Affine transformational optics</td>
-<td>Barbastathis G., Luo Y., Barbastathis G., Zhang B., Gao H., Xu H., Sun H., Qiu C., Han T.</td>
-<td>2011</td>
-<td>Optics InfoBase Conference Papers</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Photonic cloak made of subwavelength dielectric elliptical rod arrays</td>
-<td>Gao H., Zhang B., Barbastathis G., Barbastathis G.</td>
-<td>2011</td>
-<td>Optics Communications</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Macroscopic invisibility cloak for visible light</td>
-<td>Zhang B., Luo Y., Liu X., Barbastathis G., Zhang B., Luo Y., Barbastathis G.</td>
-<td>2011</td>
-<td>Physical Review Letters</td>
-<td>278</td>
-</tr>
-<tr>
-<td>Compact optical waveguide coupler using homogeneous uniaxial medium</td>
-<td>Xu H., Sun H., Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2011</td>
-<td>Journal of the Optical Society of America B: Optical Physics</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Iterative nonlinear beam propagation using Hamiltonian ray tracing and Wigner distribution function</td>
-<td>Gao H., Tian L., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2010</td>
-<td>Optics Letters</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Dynamic trapping and release of multiple particles in a polarized optical vortex</td>
-<td>Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2010</td>
-<td>2010 International Conference on Optical MEMS and Nanophotonics, Optical MEMS and Nanophotonics 2010</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Cylindrical cloaking at oblique incidence with optimized finite multilayer parameters</td>
-<td>Zhang B., Wu B.</td>
-<td>2010</td>
-<td>Optics Letters</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Delay-bandwidth and delay-loss limitations for cloaking of large objects</td>
-<td>Hashemi H., Johnson S., Zhang B., Joannopoulos J.</td>
-<td>2010</td>
-<td>Physical Review Letters</td>
-<td>50</td>
-</tr>
-<tr>
-<td>Lateral shift makes a ground-plane cloak detectable</td>
-<td>Zhang B., Chan T., Wu B.</td>
-<td>2010</td>
-<td>Physical Review Letters</td>
-<td>76</td>
-</tr>
-<tr>
-<td>Dielectric metamaterial magnifier creating a virtual color image with far-field subwavelength information</td>
-<td>Zhang B., Barbastathis G., Zhang B., Barbastathis G.</td>
-<td>2010</td>
-<td>Optics Express</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Optical force on a cylindrical cloak under arbitrary wave illumination</td>
-<td>Chen H., Chen H., Zhang B., Wu B., Kemp B.</td>
-<td>2010</td>
-<td>Optics Letters</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Cloaking a perfectly conducting sphere with rotationally uniaxial nihility media in monostatic radar system</td>
-<td>Cheng X., Chen H., Zhang X., Zhang B., Wu B.</td>
-<td>2010</td>
-<td>Progress in Electromagnetics Research</td>
-<td>40</td>
-</tr>
-<tr>
-<td>An analytical method to study the effects of a substrate in surface-enhanced Raman scattering</td>
-<td>Huang S., Wu B., Zhang B., Huang S., Lee Y., Liberman V., Rothschild M.</td>
-<td>2009</td>
-<td>Journal of Applied Physics</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Electromagnetic detection of a perfect invisibility cloak</td>
-<td>Zhang B., Wu B.</td>
-<td>2009</td>
-<td>Physical Review Letters</td>
-<td>33</td>
-</tr>
-<tr>
-<td>High directive antenna with virtual aperture</td>
-<td>Zhang B., Wu B., Chen H., Chen H.</td>
-<td>2009</td>
-<td>IEEE Antennas and Propagation Society, AP-S International Symposium (Digest)</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Response of dispersive cylindrical cloaks to a nonmonochromatic plane wave</td>
-<td>Blanchard C., Porti J., Morente J., Salinas A., Blanchard C., Wu B., Chen H., Zhang B., Chen H.</td>
-<td>2009</td>
-<td>Journal of the Optical Society of America B: Optical Physics</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Importance of the singular constitutive parameters of cylindrical cloaks: Illustration on the anticloak concept</td>
-<td>Blanchard C., Portí J., Morente J., Salinas A., Blanchard C., Zhang B., Wu B., Chen H., Chen H.</td>
-<td>2009</td>
-<td>Journal of the Optical Society of America B: Optical Physics</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Lorentz force and radiation pressure on a spherical cloak</td>
-<td>Chen H., Luo Y., Zhang J., Ran L., Wu B., Zhang B., Kemp B., Wu B., Kemp B.</td>
-<td>2009</td>
-<td>Physical Review A - Atomic, Molecular, and Optical Physics</td>
-<td>22</td>
-</tr>
-<tr>
-<td>Spherical cloaking using nonlinear transformations for improved segmentation into concentric isotropic coatings</td>
-<td>Qiu C., Zhang B., Wu B., Joannopoulos J., Qiu C., Hu L., Johnson S.</td>
-<td>2009</td>
-<td>Optics Express</td>
-<td>41</td>
-</tr>
-<tr>
-<td>Optical delay of a signal through a dispersive invisibility cloak</td>
-<td>Zhang B., Wu B., Chen H., Chen H.</td>
-<td>2009</td>
-<td>Optics Express</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Route to low-scattering cylindrical cloaks with finite permittivity and permeability</td>
-<td>Xi S., Chen H., Wu B., Kong J., Xi S., Chen H., Zhang B., Wu B., Kong J.</td>
-<td>2009</td>
-<td>Physical Review B - Condensed Matter and Materials Physics</td>
-<td>51</td>
-</tr>
-<tr>
-<td>Practical limitations of an invisibility cloak</td>
-<td>Zhang B., Wu B., Chen H.</td>
-<td>2009</td>
-<td>Progress in Electromagnetics Research</td>
-<td>26</td>
-</tr>
-<tr>
-<td>Effects of different transformations on the performance of cylindrical cloaks</td>
-<td>Xi S., Chen H., Huangfu J., Wang D., Kong J., Wu B., Zhang B.</td>
-<td>2008</td>
-<td>Journal of Electromagnetic Waves and Applications</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Limitations of high-order transformation and incident angle on simplified invisibility cloaks</td>
-<td>Zhang B., Chen H., Wu B., Chen H., Wu B.</td>
-<td>2008</td>
-<td>Optics Express</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Rainbow and blueshift effect of a dispersive spherical invisibility cloak impinged on by a nonmonochromatic plane wave</td>
-<td>Zhang B., Wu B., Chen H., Kong J., Wu B., Chen H., Kong J.</td>
-<td>2008</td>
-<td>Physical Review Letters</td>
-<td>27</td>
-</tr>
-<tr>
-<td>Extraordinary surface voltage effect in the invisibility cloak with an active device inside</td>
-<td>Zhang B., Chen H., Wu B., Kong J.</td>
-<td>2008</td>
-<td>Physical Review Letters</td>
-<td>102</td>
-</tr>
-<tr>
-<td>Erratum: Electromagnetic wave interactions with a metamaterial cloak (Physical Review Letters (2007) 99 (063903))</td>
-<td>Chen H., Wu B., Zhang B., Kong J.</td>
-<td>2007</td>
-<td>Physical Review Letters</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Response of a cylindrical invisibility cloak to electromagnetic waves</td>
-<td>Zhang B., Chen H., Wu B., Luo Y., Ran L., Kong J.</td>
-<td>2007</td>
-<td>Physical Review B - Condensed Matter and Materials Physics</td>
-<td>113</td>
-</tr>
-<tr>
-<td>Electromagnetic wave interactions with a metamaterial cloak</td>
-<td>Chen H., Kong J., Chen H., Wu B., Zhang B., Kong J.</td>
-<td>2007</td>
-<td>Physical Review Letters</td>
-<td>413</td>
-</tr>
-<tr>
-<td>Nanosecond pulse corona charging of polymers</td>
-<td>Zhou Y., Zhang B., Bu D., Wang N., Wang Y., Liang X., Guan Z., Yan P.</td>
-<td>2007</td>
-<td>IEEE Transactions on Dielectrics and Electrical Insulation</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Polarity reversal charging of polypropylene films under DC corona discharge</td>
-<td>Zhang B., Zhou Y., Wang N., Liang X., Guan Z., Takada T.</td>
-<td>2005</td>
-<td>Journal of Electrostatics</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Inactivation effects of electrostatic field on Bacillus subtilis</td>
-<td>Bu D., Liu Y., Zhou Y., Xu Z., Guo L., Zhang B., Liang X., Guan Z.</td>
-<td>2005</td>
-<td>Journal of Electrostatics</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Polarity reversal discharge on polypropylene surface by nanosecond pulse discharge</td>
-<td>Zhou Y., Bu D., Zhang B., Wang N., Wang Y., Gao B., Liang X., Guan Z., Yan P.</td>
-<td>2005</td>
-<td>Zhongguo Dianji Gongcheng Xuebao/Proceedings of the Chinese Society of Electrical Engineering</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Polarity reversal discharge on polypropylene surface applied with nanosecond pulses</td>
-<td>Zhou Y., Zhang B., Wang N., Wang Y., Liang X., Guan Z., Yan P.</td>
-<td>2003</td>
-<td>Conference on Electrical Insulation and Dielectric Phenomena (CEIDP), Annual Report</td>
-<td>2</td>
-</tr>
-<scopus.scopus_search.ScopusSearch object at 0x10056c940>
-<scopus.author_retrieval.AuthorRetrieval object at 0x113c82438>
-<scopus.scopus_search.ScopusSearch object at 0x10056c940>
-                     0
-0   2-s2.0-85040772641
-1   2-s2.0-85042499700
-2   2-s2.0-84944587576
-3   2-s2.0-84922738118
-4   2-s2.0-84925072917
-5   2-s2.0-84884970944
-6   2-s2.0-84887594068
-7   2-s2.0-84877576280
-8   2-s2.0-84877909672
-9   2-s2.0-84868243753
-10  2-s2.0-84870951645
-11  2-s2.0-84867513384
-12  2-s2.0-84886644727
-13  2-s2.0-84906637661
-14  2-s2.0-84906574473
-15  2-s2.0-84902395547
-16  2-s2.0-79956268024
-17  2-s2.0-79954423410
-18  2-s2.0-77956976915
-19  2-s2.0-77953126952
-20  2-s2.0-28944441429
-21  2-s2.0-10044224817
-22   2-s2.0-0042128657
-23   2-s2.0-0141889997
-24   2-s2.0-0141851098
-25   2-s2.0-0041992427
-26   2-s2.0-0037208792
-27   2-s2.0-0036780435
-28   2-s2.0-0036779864
-29   2-s2.0-0036654026
-30   2-s2.0-0035513646
-31   2-s2.0-0034045848
-32   2-s2.0-0033114011
-33   2-s2.0-0033090409
-RangeIndex(start=0, stop=1, step=1)
-                    0
-0  2-s2.0-85040772641
-1  2-s2.0-85042499700
-2  2-s2.0-84944587576
-3  2-s2.0-84922738118
-4  2-s2.0-84925072917
-[Document(eid='2-s2.0-85040772641', doi='10.1016/j.ajoms.2017.12.007', pii='S2212555817302636', title='A pilot study: Clinical efficacy of novel polycaprolactone-tricalcium phosphate membrane for guided bone regeneration in rabbit calvarial defect model', subtype='ar', creator='Saigo L.', authname='Saigo L.;Kumar V.;Liu Y.;Lim J.;Teoh S.;Goh B.', authid='55902172200;55946186500;52663768700;55498602800;7102202041;7005217932', afid='60006850;60006850;60005510;60005510;60005510;60006850', coverDate='2018-05-01', coverDisplayDate='May 2018', publicationName='Journal of Oral and Maxillofacial Surgery, Medicine, and Pathology', issn='22125558', source_id='21100222518', aggregationType='Journal', volume='30', issueIdentifier='3', pageRange='212-219', citedby_count='0', openaccess='0'), Document(eid='2-s2.0-85042499700', doi='10.1111/odi.12776', pii=None, title='Human- and mouse-derived neurons can be simultaneously obtained by co-cultures of human oral mucosal stem cells and mouse neural stem cells', subtype='ar', creator='Alajbeg I.', authname='Alajbeg I.;Alić I.;Andabak-Rogulj A.;Brailo V.;Mitrečić D.', authid='8620157100;37107193200;51663280700;55913817300;8696488400', afid='60077685-60006461;60069795-60005510;60077685;60077685-60006461;60006461-60006461', coverDate='2018-03-01', coverDisplayDate='March 2018', publicationName='Oral Diseases', issn='1354523X', source_id='22815', aggregationType='Journal', volume='24', issueIdentifier='1-2', pageRange='5-10', citedby_count='0', openaccess='1'), Document(eid='2-s2.0-84944587576', doi='10.1007/978-3-319-13575-5_5', pii=None, title='Nanomedicine: Size-related drug delivery applications, including periodontics and endodontics', subtype='ch', creator='Ng X.', authname='Ng X.;Mundargi R.;Venkatraman S.', authid='55191574800;14016297500;7005618072', afid='60005510;60005510;60005510', coverDate='2015-01-01', coverDisplayDate='1 January 2015', publicationName='Nanotechnology in Endodontics: Current and Potential Clinical Applications', issn=None, source_id='21100417391', aggregationType='Book', volume=None, issueIdentifier=None, pageRange='71-96', citedby_count='1', openaccess='0'), Document(eid='2-s2.0-84922738118', doi='10.1111/clr.12486', pii=None, title='Novel 3D polycaprolactone scaffold for ridge preservation - a pilot randomised controlled clinical trial', subtype='ar', creator='Goh B.', authname='Goh B.;Teh L.;Tan D.;Zhang Z.;Teoh S.', authid='7005217932;7005663492;56514587900;57200907330;7102202041', afid='60006850;60006850;60006850;60025084;60005510', coverDate='2015-01-01', coverDisplayDate='1 March 2015', publicationName='Clinical Oral Implants Research', issn='09057161', source_id='24408', aggregationType='Journal', volume='26', issueIdentifier='3', pageRange='271-277', citedby_count='18', openaccess='0'), Document(eid='2-s2.0-84925072917', doi='10.1186/1746-160X-10-54', pii=None, title='Facial landmark localization by curvature maps and profile analysis', subtype='ar', creator='Lippold C.', authname='Lippold C.;Liu X.;Wangdo K.;Drerup B.;Schreiber K.;Kirschneck C.;Moiseenko T.;Danesh G.', authid='12752421400;56558960800;56560104200;7004365840;56559583600;55841703600;25031576900;55916649800', afid=';60005510;60106051;;;60020016;;', coverDate='2014-12-08', coverDisplayDate='December 08, 2014', publicationName='Head and Face Medicine', issn=None, source_id='6400153146', aggregationType='Journal', volume='10', issueIdentifier='1', pageRange=None, citedby_count='8', openaccess='1'), Document(eid='2-s2.0-84884970944', doi='10.4012/dmj.2013-109', pii=None, title='Efficacy of cold light bleaching using different bleaching times and their effects on human enamel', subtype='ar', creator='Wang W.', authname='Wang W.;Zhu Y.;Li J.;Liao S.;Ai H.', authid='56948588000;14027764400;55872330300;16031532600;7005353413', afid='60008872;60008872;60008872;60005510;60008872', coverDate='2013-10-08', coverDisplayDate='2013', publicationName='Dental Materials Journal', issn='02874547', source_id='24937', aggregationType='Journal', volume='32', issueIdentifier='5', pageRange='761-766', citedby_count='8', openaccess='1'), Document(eid='2-s2.0-84887594068', doi='10.5051/jpis.2013.43.5.207', pii=None, title='Waiting for innovations in periodontal disease diagnosis', subtype='ed', creator='Kim D.', authname='Kim D.', authid='35074263400', afid='60005510', coverDate='2013-10-01', coverDisplayDate='October 2013', publicationName='Journal of Periodontal and Implant Science', issn='20932278', source_id='21100199820', aggregationType='Journal', volume='43', issueIdentifier='5', pageRange='207-208', citedby_count='0', openaccess='1'), Document(eid='2-s2.0-84877576280', doi='10.1016/j.archoralbio.2012.10.004', pii='S0003996912003470', title='The effect of dentinal fluid flow during loading in various directions - Simulation of fluid-structure interaction', subtype='ar', creator='Su K.', authname='Su K.;Chang C.;Chuang S.;Ng E.', authid='54394324200;34869102400;7202515835;7201647536', afid='60014982;60014982;60014982;60005510', coverDate='2013-06-01', coverDisplayDate='June 2013', publicationName='Archives of Oral Biology', issn='00039969', source_id='24634', aggregationType='Journal', volume='58', issueIdentifier='6', pageRange='575-582', citedby_count='10', openaccess='0'), Document(eid='2-s2.0-84877909672', doi='10.1016/j.orhc.2013.03.002', pii='S2211692313000039', title='Application of queueing theory in health care: A literature review', subtype='re', creator='C L.', authname='C L.;Appa Iyer S.', authid='55710871400;7003267286', afid='60026293;60005510', coverDate='2013-03-01', coverDisplayDate='March 2013', publicationName='Operations Research for Health Care', issn='22116923', source_id='21100202150', aggregationType='Journal', volume='2', issueIdentifier='1-2', pageRange='25-39', citedby_count='45', openaccess='0'), Document(eid='2-s2.0-84868243753', doi='10.1159/000343573', pii=None, title='Subablative Er:YAG laser effect on enamel demineralization', subtype='ar', creator='Liu Y.', authname='Liu Y.;Hsu C.;Teo C.;Teoh S.', authid='38262226800;7404946106;36781435200;7102202041', afid=';60109095;60017161;60005510', coverDate='2013-01-01', coverDisplayDate='January 2013', publicationName='Caries Research', issn='00086568', source_id='24388', aggregationType='Journal', volume='47', issueIdentifier='1', pageRange='63-68', citedby_count='13', openaccess='0'), Document(eid='2-s2.0-84870951645', doi='10.1177/0022034512466412', pii=None, title='Potential mechanism for the laser-fluoride effect on enamel demineralization', subtype='ar', creator='Liu Y.', authname='Liu Y.;Hsu C.;Teo C.;Teoh S.', authid='38262226800;7404946106;36781435200;7102202041', afid='60017161;60109095;60017161;60005510', coverDate='2013-01-01', coverDisplayDate='January 2013', publicationName='Journal of Dental Research', issn='00220345', source_id='25684', aggregationType='Journal', volume='92', issueIdentifier='1', pageRange='71-75', citedby_count='22', openaccess='0'), Document(eid='2-s2.0-84867513384', doi='10.1016/j.joen.2012.07.007', pii='S0099239912007315', title='Synergistic effect of microbubble emulsion and sonic or ultrasonic agitation on endodontic biofilm in vitro', subtype='ar', creator='Halford A.', authname='Halford A.;Ohl C.;Azarpazhooh A.;Basrani B.;Friedman S.;Kishen A.', authid='55391645500;7006415452;12762309900;6602913808;7403182213;9939833500', afid='60016849;60005510;60016849;60016849;60016849;60016849', coverDate='2012-11-01', coverDisplayDate='November 2012', publicationName='Journal of Endodontics', issn='00992399', source_id='25688', aggregationType='Journal', volume='38', issueIdentifier='11', pageRange='1530-1534', citedby_count='24', openaccess='0'), Document(eid='2-s2.0-84886644727', doi='10.1002/9781118523025.ch9', pii=None, title='Impedimetric DNA Sensing Employing Nanomaterials', subtype='ch', creator='Del Valle M.', authname='Del Valle M.;Bonanni A.', authid='57193713083;25622983000', afid='60023020;60005510', coverDate='2012-10-16', coverDisplayDate='16 October 2012', publicationName='Biomedical Materials and Diagnostic Devices', issn=None, source_id='21100264863', aggregationType='Book', volume=None, issueIdentifier=None, pageRange='279-301', citedby_count='0', openaccess='0'), Document(eid='2-s2.0-84906637661', doi=None, pii=None, title='Biosensors based on sol-gel-derived materials', subtype='ch', creator='Tan S.', authname='Tan S.;Wang W.;Ge L.', authid='7403365780;56339076300;8406449800', afid='60005510;60005510-60073724;60005510', coverDate='2011-10-01', coverDisplayDate='October 2011', publicationName='Comprehensive Biomaterials', issn=None, source_id='21100331624', aggregationType='Book', volume='3', issueIdentifier=None, pageRange='471-489', citedby_count='4', openaccess='0'), Document(eid='2-s2.0-84906574473', doi=None, pii=None, title='Systems biology in biomaterials and tissue engineering', subtype='ch', creator='Ananthanarayanan A.', authname='Ananthanarayanan A.;Tucker-Kellogg L.;Narmada B.;Venkatraman L.;Abdul Rahim N.;Wang Y.;Kang C.;Yu H.', authid='36643335500;6507530832;35746897900;36515933400;12768717400;56339087300;7402312569;8600106300', afid='114602043-60026499;60017161-60026293;114602043;60026293-60005510;60017161;60026499;60026499;114602043-60026499-60017161-60026293-60026293', coverDate='2011-10-01', coverDisplayDate='October 2011', publicationName='Comprehensive Biomaterials', issn=None, source_id='21100331624', aggregationType='Book', volume='5', issueIdentifier=None, pageRange='177-188', citedby_count='0', openaccess='0'), Document(eid='2-s2.0-84902395547', doi='10.1016/B978-1-84569-741-9.50009-4', pii=None, title='Nerve tissue regeneration', subtype='ch', creator='Wang C.', authname='Wang C.;Koh H.;Ramakrishna S.;Liao S.', authid='56204645500;8516946000;7102114638;56152352300', afid='60017161;60017161;60017161;60005510', coverDate='2011-06-01', coverDisplayDate='June 2011', publicationName='Electrospinning for Tissue Regeneration', issn=None, source_id='21100318791', aggregationType='Book', volume=None, issueIdentifier=None, pageRange='168-201', citedby_count='1', openaccess='0'), Document(eid='2-s2.0-79956268024', doi='10.1016/j.ijom.2010.10.028', pii='S0901502710005230', title='Effect of replacement of mandibular defects with a modular endoprosthesis on bone mineral density in a monkey model', subtype='ar', creator='Wong R.', authname='Wong R.;Lee S.;Tideman H.;Merkx M.;Jansen J.;Liao K.', authid='35180804400;24438248800;7005602469;7004404642;55598669000;7203022926', afid='60006850;60006850;60006850;60016529;60016529;60005510', coverDate='2011-06-01', coverDisplayDate='June 2011', publicationName='International Journal of Oral and Maxillofacial Surgery', issn='09015027', source_id='25629', aggregationType='Journal', volume='40', issueIdentifier='6', pageRange='633-639', citedby_count='5', openaccess='0'), Document(eid='2-s2.0-79954423410', doi='10.1016/j.ijom.2010.11.023', pii='S0901502710005217', title='Review of biomechanical models used in studying the biomechanics of reconstructed mandibles', subtype='re', creator='Wong R.', authname='Wong R.;Tideman H.;Merkx M.;Jansen J.;Goh S.;Liao K.', authid='35180804400;7005602469;7004404642;55598669000;7202784322;7203022926', afid='60006850;60006850;60016529;60016529;60031226;60005510', coverDate='2011-04-01', coverDisplayDate='April 2011', publicationName='International Journal of Oral and Maxillofacial Surgery', issn='09015027', source_id='25629', aggregationType='Journal', volume='40', issueIdentifier='4', pageRange='393-400', citedby_count='24', openaccess='0'), Document(eid='2-s2.0-77956976915', doi='10.1016/j.joen.2010.06.027', pii='S0099239910005510', title='Effect of hydration on the strain gradients in dental hard tissues after heat and cold application', subtype='ar', creator='Shrestha A.', authname='Shrestha A.;Messer H.;Asundi A.;Kishen A.', authid='23006478100;7102353781;7102304400;9939833500', afid='60016849;60026553;60005510;60016849', coverDate='2010-10-01', coverDisplayDate='October 2010', publicationName='Journal of Endodontics', issn='00992399', source_id='25688', aggregationType='Journal', volume='36', issueIdentifier='10', pageRange='1643-1647', citedby_count='5', openaccess='0'), Document(eid='2-s2.0-77953126952', doi='10.1016/j.ijom.2009.11.003', pii='S0901502709011497', title='Biomechanics of mandibular reconstruction: a review', subtype='re', creator='Wong R.', authname='Wong R.;Tideman H.;Kin L.;Merkx M.', authid='35180804400;7005602469;7203022926;7004404642', afid='60006850;60006850;60005510;60002573', coverDate='2010-04-01', coverDisplayDate='April 2010', publicationName='International Journal of Oral and Maxillofacial Surgery', issn='09015027', source_id='25629', aggregationType='Journal', volume='39', issueIdentifier='4', pageRange='313-319', citedby_count='35', openaccess='0'), Document(eid='2-s2.0-28944441429', doi='10.1016/j.jdent.2005.02.008', pii='S0300571205000709', title='Digital moiré interferometric investigations on the deformation gradients of enamel and dentine: An insight into non-carious cervical lesions', subtype='ar', creator='Kishen A.', authname='Kishen A.;Tan K.;Asundi A.', authid='9939833500;57194077906;7102304400', afid='60109095;60109095;60031307', coverDate='2006-01-01', coverDisplayDate='January 2006', publicationName='Journal of Dentistry', issn='03005712', source_id='25686', aggregationType='Journal', volume='34', issueIdentifier='1', pageRange='12-18', citedby_count='21', openaccess='0'), Document(eid='2-s2.0-10044224817', doi='10.1097/01.DON.0000129038.97791.8A', pii='S0099239905600659', title='Chairside sensor for rapid monitoring of Enterococcus faecalis activity', subtype='ar', creator='Kishen A.', authname='Kishen A.;Chen N.;Tan L.;Asundi A.', authid='9939833500;7401912295;57198704251;7102304400', afid='60109095-60031325;60006850;60006850;60005510', coverDate='2004-01-01', coverDisplayDate='December 2004', publicationName='Journal of Endodontics', issn='00992399', source_id='25688', aggregationType='Journal', volume='30', issueIdentifier='12', pageRange='872-875', citedby_count='7', openaccess='0'), Document(eid='2-s2.0-0042128657', doi='10.1016/S0109-5641(03)00005-8', pii='S0109564103000058', title='Mechanism of strength increase for a hydrothermal porcelain', subtype='ar', creator='Griggs J.', authname='Griggs J.;Kishen A.;Le K.', authid='7006541690;9939833500;7102134072', afid='60027347;60031307;60027347', coverDate='2003-11-01', coverDisplayDate='November 2003', publicationName='Dental Materials', issn='01095641', source_id='24936', aggregationType='Journal', volume='19', issueIdentifier='7', pageRange='625-631', citedby_count='12', openaccess='0'), Document(eid='2-s2.0-0141889997', doi=None, pii=None, title='Integration of laser surface digitizing with CAD/CAM techniques for developing facial prostheses. Part 2: Development of molding techniques for casting prosthetic parts', subtype='ar', creator='Cheah C.', authname='Cheah C.;Chua C.;Tan K.', authid='7007112849;57203930410;7403999640', afid='60031307;60031307;60031307', coverDate='2003-09-01', coverDisplayDate='September 2003', publicationName='International Journal of Prosthodontics', issn='08932174', source_id='25637', aggregationType='Journal', volume='16', issueIdentifier='5', pageRange='543-548', citedby_count='54', openaccess='0'), Document(eid='2-s2.0-0141851098', doi=None, pii=None, title='Integration of laser surface digitizing with CAD/CAM techniques for developing facial prostheses. Part 1: Design and fabrication of prosthesis replicas', subtype='ar', creator='Cheah C.', authname='Cheah C.;Chua C.;Tan K.;Teo C.', authid='7007112849;57203930410;7403999640;36725104200', afid='60031307;60031307;60031307;60031307', coverDate='2003-07-01', coverDisplayDate='July 2003', publicationName='International Journal of Prosthodontics', issn='08932174', source_id='25637', aggregationType='Journal', volume='16', issueIdentifier='4', pageRange='435-441', citedby_count='79', openaccess='0'), Document(eid='2-s2.0-0041992427', doi='10.1016/S0109-5641(02)00066-0', pii='S0109564102000660', title='Effect of hydrolyzed surface layer on the cytotoxicity and chemical resistance of a low fusing porcelain', subtype='ar', creator='Griggs J.', authname='Griggs J.;Wataha J.;Kishen A.', authid='7006541690;7006802636;9939833500', afid='60027347;60024399;60031307', coverDate='2003-07-01', coverDisplayDate='July 2003', publicationName='Dental Materials', issn='01095641', source_id='24936', aggregationType='Journal', volume='19', issueIdentifier='5', pageRange='353-358', citedby_count='9', openaccess='0'), Document(eid='2-s2.0-0037208792', doi='10.1046/j.1365-2842.2003.01006.x', pii=None, title='Physico-mechanical properties of a fast-set highly viscous gic restorative', subtype='ar', creator='Yap A.', authname='Yap A.;Pek Y.;Cheang P.', authid='7103215953;6508226477;7007080635', afid='60109095-60030743-60109095;;60005510', coverDate='2003-01-01', coverDisplayDate='1 January 2003', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='30', issueIdentifier='1', pageRange='1-8', citedby_count='44', openaccess='0'), Document(eid='2-s2.0-0036780435', doi='10.1046/j.1365-2842.2002.00973.x', pii=None, title='Scanning electron microscopic and energy dispersive spectrometric investigations on the effect of XeCl excimer laser on human dentin with smear layer', subtype='ar', creator='Pradeep Kumar A.', authname='Pradeep Kumar A.;Subba Rao C.;Parameswaran A.;Kishen A.;Lim C.', authid='55857733300;57191614007;57197401431;9939833500;7403654491', afid='60031645;60031645;60031645;60005510;60005510', coverDate='2002-10-01', coverDisplayDate='October 2002', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='29', issueIdentifier='10', pageRange='1003-1009', citedby_count='2', openaccess='0'), Document(eid='2-s2.0-0036779864', doi='10.1046/j.1365-2842.2002.00928.x', pii=None, title='Localization of TMJ sounds to side', subtype='ar', creator='Widmalm S.', authname='Widmalm S.;Williams W.;Ang B.;Mckay D.', authid='7004630851;35582178100;36784489600;7201908901', afid='60025778-60025778;60025778;60005510;', coverDate='2002-10-01', coverDisplayDate='October 2002', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='29', issueIdentifier='10', pageRange='911-917', citedby_count='9', openaccess='0'), Document(eid='2-s2.0-0036654026', doi='10.1046/j.1365-2842.2002.00908.x', pii=None, title='Mechanical properties of two restorative reinforced glass-ionomer cements', subtype='ar', creator='Yap A.', authname='Yap A.;Cheang P.;Chay P.', authid='7103215953;7007080635;9637923200', afid='60017161-60109095;60005510;60005510', coverDate='2002-07-01', coverDisplayDate='July 2002', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='29', issueIdentifier='7', pageRange='682-688', citedby_count='24', openaccess='0'), Document(eid='2-s2.0-0035513646', doi='10.1016/S0300-5712(01)00048-3', pii='S0300571201000483', title='Analysis on the nature of thermally induced deformation in human dentine by electronic speckle pattern interferometry (ESPI)', subtype='ar', creator='Kishen A.', authname='Kishen A.;Murukeshan V.;Krishnakumar V.;Asundi A.', authid='9939833500;56881758000;57200585248;7102304400', afid='60031307;60031307;60031307;60031307', coverDate='2001-01-01', coverDisplayDate='November 2001', publicationName='Journal of Dentistry', issn='03005712', source_id='25686', aggregationType='Journal', volume='29', issueIdentifier='8', pageRange='531-537', citedby_count='31', openaccess='0'), Document(eid='2-s2.0-0034045848', doi='10.1016/S0003-9969(00)00031-5', pii='S0003996900000315', title='A strain gauge and photoelastic analysis of in vivo strain and in vitro stress distribution in human dental supporting structures', subtype='ar', creator='Asundi A.', authname='Asundi A.;Kishen A.', authid='7102304400;9939833500', afid='60031307;60005510', coverDate='2000-07-01', coverDisplayDate='1 July 2000', publicationName='Archives of Oral Biology', issn='00039969', source_id='24634', aggregationType='Journal', volume='45', issueIdentifier='7', pageRange='543-550', citedby_count='64', openaccess='0'), Document(eid='2-s2.0-0033114011', doi='10.1111/j.1600-9657.1999.tb00759.x', pii=None, title='Biomechanics of endodontic endosseous implants - A comparative photoelastic evaluation', subtype='ar', creator='Asundi A.', authname='Asundi A.;Kishen A.', authid='7102304400;9939833500', afid='60005510-60031307;60005510', coverDate='1999-01-01', coverDisplayDate='1999', publicationName='Dental Traumatology', issn='16004469', source_id='24958', aggregationType='Journal', volume='15', issueIdentifier='2', pageRange='83-87', citedby_count='6', openaccess='0'), Document(eid='2-s2.0-0033090409', doi='10.1046/j.1365-2842.1999.00372.x', pii=None, title='False localization of TMJ sounds to side is an important source of error in TMD diagnosis', subtype='ar', creator='Widmalm S.', authname='Widmalm S.;Williams W.;Yang K.', authid='7004630851;35582178100;57198557206', afid='60019369;60025778;60005510', coverDate='1999-01-01', coverDisplayDate='March 1999', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='26', issueIdentifier='3', pageRange='213-214', citedby_count='9', openaccess='0')]
-[Document(eid='2-s2.0-85040772641', doi='10.1016/j.ajoms.2017.12.007', pii='S2212555817302636', title='A pilot study: Clinical efficacy of novel polycaprolactone-tricalcium phosphate membrane for guided bone regeneration in rabbit calvarial defect model', subtype='ar', creator='Saigo L.', authname='Saigo L.;Kumar V.;Liu Y.;Lim J.;Teoh S.;Goh B.', authid='55902172200;55946186500;52663768700;55498602800;7102202041;7005217932', afid='60006850;60006850;60005510;60005510;60005510;60006850', coverDate='2018-05-01', coverDisplayDate='May 2018', publicationName='Journal of Oral and Maxillofacial Surgery, Medicine, and Pathology', issn='22125558', source_id='21100222518', aggregationType='Journal', volume='30', issueIdentifier='3', pageRange='212-219', citedby_count='0', openaccess='0'), Document(eid='2-s2.0-85042499700', doi='10.1111/odi.12776', pii=None, title='Human- and mouse-derived neurons can be simultaneously obtained by co-cultures of human oral mucosal stem cells and mouse neural stem cells', subtype='ar', creator='Alajbeg I.', authname='Alajbeg I.;Alić I.;Andabak-Rogulj A.;Brailo V.;Mitrečić D.', authid='8620157100;37107193200;51663280700;55913817300;8696488400', afid='60077685-60006461;60069795-60005510;60077685;60077685-60006461;60006461-60006461', coverDate='2018-03-01', coverDisplayDate='March 2018', publicationName='Oral Diseases', issn='1354523X', source_id='22815', aggregationType='Journal', volume='24', issueIdentifier='1-2', pageRange='5-10', citedby_count='0', openaccess='1'), Document(eid='2-s2.0-84944587576', doi='10.1007/978-3-319-13575-5_5', pii=None, title='Nanomedicine: Size-related drug delivery applications, including periodontics and endodontics', subtype='ch', creator='Ng X.', authname='Ng X.;Mundargi R.;Venkatraman S.', authid='55191574800;14016297500;7005618072', afid='60005510;60005510;60005510', coverDate='2015-01-01', coverDisplayDate='1 January 2015', publicationName='Nanotechnology in Endodontics: Current and Potential Clinical Applications', issn=None, source_id='21100417391', aggregationType='Book', volume=None, issueIdentifier=None, pageRange='71-96', citedby_count='1', openaccess='0'), Document(eid='2-s2.0-84922738118', doi='10.1111/clr.12486', pii=None, title='Novel 3D polycaprolactone scaffold for ridge preservation - a pilot randomised controlled clinical trial', subtype='ar', creator='Goh B.', authname='Goh B.;Teh L.;Tan D.;Zhang Z.;Teoh S.', authid='7005217932;7005663492;56514587900;57200907330;7102202041', afid='60006850;60006850;60006850;60025084;60005510', coverDate='2015-01-01', coverDisplayDate='1 March 2015', publicationName='Clinical Oral Implants Research', issn='09057161', source_id='24408', aggregationType='Journal', volume='26', issueIdentifier='3', pageRange='271-277', citedby_count='18', openaccess='0'), Document(eid='2-s2.0-84925072917', doi='10.1186/1746-160X-10-54', pii=None, title='Facial landmark localization by curvature maps and profile analysis', subtype='ar', creator='Lippold C.', authname='Lippold C.;Liu X.;Wangdo K.;Drerup B.;Schreiber K.;Kirschneck C.;Moiseenko T.;Danesh G.', authid='12752421400;56558960800;56560104200;7004365840;56559583600;55841703600;25031576900;55916649800', afid=';60005510;60106051;;;60020016;;', coverDate='2014-12-08', coverDisplayDate='December 08, 2014', publicationName='Head and Face Medicine', issn=None, source_id='6400153146', aggregationType='Journal', volume='10', issueIdentifier='1', pageRange=None, citedby_count='8', openaccess='1'), Document(eid='2-s2.0-84884970944', doi='10.4012/dmj.2013-109', pii=None, title='Efficacy of cold light bleaching using different bleaching times and their effects on human enamel', subtype='ar', creator='Wang W.', authname='Wang W.;Zhu Y.;Li J.;Liao S.;Ai H.', authid='56948588000;14027764400;55872330300;16031532600;7005353413', afid='60008872;60008872;60008872;60005510;60008872', coverDate='2013-10-08', coverDisplayDate='2013', publicationName='Dental Materials Journal', issn='02874547', source_id='24937', aggregationType='Journal', volume='32', issueIdentifier='5', pageRange='761-766', citedby_count='8', openaccess='1'), Document(eid='2-s2.0-84887594068', doi='10.5051/jpis.2013.43.5.207', pii=None, title='Waiting for innovations in periodontal disease diagnosis', subtype='ed', creator='Kim D.', authname='Kim D.', authid='35074263400', afid='60005510', coverDate='2013-10-01', coverDisplayDate='October 2013', publicationName='Journal of Periodontal and Implant Science', issn='20932278', source_id='21100199820', aggregationType='Journal', volume='43', issueIdentifier='5', pageRange='207-208', citedby_count='0', openaccess='1'), Document(eid='2-s2.0-84877576280', doi='10.1016/j.archoralbio.2012.10.004', pii='S0003996912003470', title='The effect of dentinal fluid flow during loading in various directions - Simulation of fluid-structure interaction', subtype='ar', creator='Su K.', authname='Su K.;Chang C.;Chuang S.;Ng E.', authid='54394324200;34869102400;7202515835;7201647536', afid='60014982;60014982;60014982;60005510', coverDate='2013-06-01', coverDisplayDate='June 2013', publicationName='Archives of Oral Biology', issn='00039969', source_id='24634', aggregationType='Journal', volume='58', issueIdentifier='6', pageRange='575-582', citedby_count='10', openaccess='0'), Document(eid='2-s2.0-84877909672', doi='10.1016/j.orhc.2013.03.002', pii='S2211692313000039', title='Application of queueing theory in health care: A literature review', subtype='re', creator='C L.', authname='C L.;Appa Iyer S.', authid='55710871400;7003267286', afid='60026293;60005510', coverDate='2013-03-01', coverDisplayDate='March 2013', publicationName='Operations Research for Health Care', issn='22116923', source_id='21100202150', aggregationType='Journal', volume='2', issueIdentifier='1-2', pageRange='25-39', citedby_count='45', openaccess='0'), Document(eid='2-s2.0-84868243753', doi='10.1159/000343573', pii=None, title='Subablative Er:YAG laser effect on enamel demineralization', subtype='ar', creator='Liu Y.', authname='Liu Y.;Hsu C.;Teo C.;Teoh S.', authid='38262226800;7404946106;36781435200;7102202041', afid=';60109095;60017161;60005510', coverDate='2013-01-01', coverDisplayDate='January 2013', publicationName='Caries Research', issn='00086568', source_id='24388', aggregationType='Journal', volume='47', issueIdentifier='1', pageRange='63-68', citedby_count='13', openaccess='0'), Document(eid='2-s2.0-84870951645', doi='10.1177/0022034512466412', pii=None, title='Potential mechanism for the laser-fluoride effect on enamel demineralization', subtype='ar', creator='Liu Y.', authname='Liu Y.;Hsu C.;Teo C.;Teoh S.', authid='38262226800;7404946106;36781435200;7102202041', afid='60017161;60109095;60017161;60005510', coverDate='2013-01-01', coverDisplayDate='January 2013', publicationName='Journal of Dental Research', issn='00220345', source_id='25684', aggregationType='Journal', volume='92', issueIdentifier='1', pageRange='71-75', citedby_count='22', openaccess='0'), Document(eid='2-s2.0-84867513384', doi='10.1016/j.joen.2012.07.007', pii='S0099239912007315', title='Synergistic effect of microbubble emulsion and sonic or ultrasonic agitation on endodontic biofilm in vitro', subtype='ar', creator='Halford A.', authname='Halford A.;Ohl C.;Azarpazhooh A.;Basrani B.;Friedman S.;Kishen A.', authid='55391645500;7006415452;12762309900;6602913808;7403182213;9939833500', afid='60016849;60005510;60016849;60016849;60016849;60016849', coverDate='2012-11-01', coverDisplayDate='November 2012', publicationName='Journal of Endodontics', issn='00992399', source_id='25688', aggregationType='Journal', volume='38', issueIdentifier='11', pageRange='1530-1534', citedby_count='24', openaccess='0'), Document(eid='2-s2.0-84886644727', doi='10.1002/9781118523025.ch9', pii=None, title='Impedimetric DNA Sensing Employing Nanomaterials', subtype='ch', creator='Del Valle M.', authname='Del Valle M.;Bonanni A.', authid='57193713083;25622983000', afid='60023020;60005510', coverDate='2012-10-16', coverDisplayDate='16 October 2012', publicationName='Biomedical Materials and Diagnostic Devices', issn=None, source_id='21100264863', aggregationType='Book', volume=None, issueIdentifier=None, pageRange='279-301', citedby_count='0', openaccess='0'), Document(eid='2-s2.0-84906637661', doi=None, pii=None, title='Biosensors based on sol-gel-derived materials', subtype='ch', creator='Tan S.', authname='Tan S.;Wang W.;Ge L.', authid='7403365780;56339076300;8406449800', afid='60005510;60005510-60073724;60005510', coverDate='2011-10-01', coverDisplayDate='October 2011', publicationName='Comprehensive Biomaterials', issn=None, source_id='21100331624', aggregationType='Book', volume='3', issueIdentifier=None, pageRange='471-489', citedby_count='4', openaccess='0'), Document(eid='2-s2.0-84906574473', doi=None, pii=None, title='Systems biology in biomaterials and tissue engineering', subtype='ch', creator='Ananthanarayanan A.', authname='Ananthanarayanan A.;Tucker-Kellogg L.;Narmada B.;Venkatraman L.;Abdul Rahim N.;Wang Y.;Kang C.;Yu H.', authid='36643335500;6507530832;35746897900;36515933400;12768717400;56339087300;7402312569;8600106300', afid='114602043-60026499;60017161-60026293;114602043;60026293-60005510;60017161;60026499;60026499;114602043-60026499-60017161-60026293-60026293', coverDate='2011-10-01', coverDisplayDate='October 2011', publicationName='Comprehensive Biomaterials', issn=None, source_id='21100331624', aggregationType='Book', volume='5', issueIdentifier=None, pageRange='177-188', citedby_count='0', openaccess='0'), Document(eid='2-s2.0-84902395547', doi='10.1016/B978-1-84569-741-9.50009-4', pii=None, title='Nerve tissue regeneration', subtype='ch', creator='Wang C.', authname='Wang C.;Koh H.;Ramakrishna S.;Liao S.', authid='56204645500;8516946000;7102114638;56152352300', afid='60017161;60017161;60017161;60005510', coverDate='2011-06-01', coverDisplayDate='June 2011', publicationName='Electrospinning for Tissue Regeneration', issn=None, source_id='21100318791', aggregationType='Book', volume=None, issueIdentifier=None, pageRange='168-201', citedby_count='1', openaccess='0'), Document(eid='2-s2.0-79956268024', doi='10.1016/j.ijom.2010.10.028', pii='S0901502710005230', title='Effect of replacement of mandibular defects with a modular endoprosthesis on bone mineral density in a monkey model', subtype='ar', creator='Wong R.', authname='Wong R.;Lee S.;Tideman H.;Merkx M.;Jansen J.;Liao K.', authid='35180804400;24438248800;7005602469;7004404642;55598669000;7203022926', afid='60006850;60006850;60006850;60016529;60016529;60005510', coverDate='2011-06-01', coverDisplayDate='June 2011', publicationName='International Journal of Oral and Maxillofacial Surgery', issn='09015027', source_id='25629', aggregationType='Journal', volume='40', issueIdentifier='6', pageRange='633-639', citedby_count='5', openaccess='0'), Document(eid='2-s2.0-79954423410', doi='10.1016/j.ijom.2010.11.023', pii='S0901502710005217', title='Review of biomechanical models used in studying the biomechanics of reconstructed mandibles', subtype='re', creator='Wong R.', authname='Wong R.;Tideman H.;Merkx M.;Jansen J.;Goh S.;Liao K.', authid='35180804400;7005602469;7004404642;55598669000;7202784322;7203022926', afid='60006850;60006850;60016529;60016529;60031226;60005510', coverDate='2011-04-01', coverDisplayDate='April 2011', publicationName='International Journal of Oral and Maxillofacial Surgery', issn='09015027', source_id='25629', aggregationType='Journal', volume='40', issueIdentifier='4', pageRange='393-400', citedby_count='24', openaccess='0'), Document(eid='2-s2.0-77956976915', doi='10.1016/j.joen.2010.06.027', pii='S0099239910005510', title='Effect of hydration on the strain gradients in dental hard tissues after heat and cold application', subtype='ar', creator='Shrestha A.', authname='Shrestha A.;Messer H.;Asundi A.;Kishen A.', authid='23006478100;7102353781;7102304400;9939833500', afid='60016849;60026553;60005510;60016849', coverDate='2010-10-01', coverDisplayDate='October 2010', publicationName='Journal of Endodontics', issn='00992399', source_id='25688', aggregationType='Journal', volume='36', issueIdentifier='10', pageRange='1643-1647', citedby_count='5', openaccess='0'), Document(eid='2-s2.0-77953126952', doi='10.1016/j.ijom.2009.11.003', pii='S0901502709011497', title='Biomechanics of mandibular reconstruction: a review', subtype='re', creator='Wong R.', authname='Wong R.;Tideman H.;Kin L.;Merkx M.', authid='35180804400;7005602469;7203022926;7004404642', afid='60006850;60006850;60005510;60002573', coverDate='2010-04-01', coverDisplayDate='April 2010', publicationName='International Journal of Oral and Maxillofacial Surgery', issn='09015027', source_id='25629', aggregationType='Journal', volume='39', issueIdentifier='4', pageRange='313-319', citedby_count='35', openaccess='0'), Document(eid='2-s2.0-28944441429', doi='10.1016/j.jdent.2005.02.008', pii='S0300571205000709', title='Digital moiré interferometric investigations on the deformation gradients of enamel and dentine: An insight into non-carious cervical lesions', subtype='ar', creator='Kishen A.', authname='Kishen A.;Tan K.;Asundi A.', authid='9939833500;57194077906;7102304400', afid='60109095;60109095;60031307', coverDate='2006-01-01', coverDisplayDate='January 2006', publicationName='Journal of Dentistry', issn='03005712', source_id='25686', aggregationType='Journal', volume='34', issueIdentifier='1', pageRange='12-18', citedby_count='21', openaccess='0'), Document(eid='2-s2.0-10044224817', doi='10.1097/01.DON.0000129038.97791.8A', pii='S0099239905600659', title='Chairside sensor for rapid monitoring of Enterococcus faecalis activity', subtype='ar', creator='Kishen A.', authname='Kishen A.;Chen N.;Tan L.;Asundi A.', authid='9939833500;7401912295;57198704251;7102304400', afid='60109095-60031325;60006850;60006850;60005510', coverDate='2004-01-01', coverDisplayDate='December 2004', publicationName='Journal of Endodontics', issn='00992399', source_id='25688', aggregationType='Journal', volume='30', issueIdentifier='12', pageRange='872-875', citedby_count='7', openaccess='0'), Document(eid='2-s2.0-0042128657', doi='10.1016/S0109-5641(03)00005-8', pii='S0109564103000058', title='Mechanism of strength increase for a hydrothermal porcelain', subtype='ar', creator='Griggs J.', authname='Griggs J.;Kishen A.;Le K.', authid='7006541690;9939833500;7102134072', afid='60027347;60031307;60027347', coverDate='2003-11-01', coverDisplayDate='November 2003', publicationName='Dental Materials', issn='01095641', source_id='24936', aggregationType='Journal', volume='19', issueIdentifier='7', pageRange='625-631', citedby_count='12', openaccess='0'), Document(eid='2-s2.0-0141889997', doi=None, pii=None, title='Integration of laser surface digitizing with CAD/CAM techniques for developing facial prostheses. Part 2: Development of molding techniques for casting prosthetic parts', subtype='ar', creator='Cheah C.', authname='Cheah C.;Chua C.;Tan K.', authid='7007112849;57203930410;7403999640', afid='60031307;60031307;60031307', coverDate='2003-09-01', coverDisplayDate='September 2003', publicationName='International Journal of Prosthodontics', issn='08932174', source_id='25637', aggregationType='Journal', volume='16', issueIdentifier='5', pageRange='543-548', citedby_count='54', openaccess='0'), Document(eid='2-s2.0-0141851098', doi=None, pii=None, title='Integration of laser surface digitizing with CAD/CAM techniques for developing facial prostheses. Part 1: Design and fabrication of prosthesis replicas', subtype='ar', creator='Cheah C.', authname='Cheah C.;Chua C.;Tan K.;Teo C.', authid='7007112849;57203930410;7403999640;36725104200', afid='60031307;60031307;60031307;60031307', coverDate='2003-07-01', coverDisplayDate='July 2003', publicationName='International Journal of Prosthodontics', issn='08932174', source_id='25637', aggregationType='Journal', volume='16', issueIdentifier='4', pageRange='435-441', citedby_count='79', openaccess='0'), Document(eid='2-s2.0-0041992427', doi='10.1016/S0109-5641(02)00066-0', pii='S0109564102000660', title='Effect of hydrolyzed surface layer on the cytotoxicity and chemical resistance of a low fusing porcelain', subtype='ar', creator='Griggs J.', authname='Griggs J.;Wataha J.;Kishen A.', authid='7006541690;7006802636;9939833500', afid='60027347;60024399;60031307', coverDate='2003-07-01', coverDisplayDate='July 2003', publicationName='Dental Materials', issn='01095641', source_id='24936', aggregationType='Journal', volume='19', issueIdentifier='5', pageRange='353-358', citedby_count='9', openaccess='0'), Document(eid='2-s2.0-0037208792', doi='10.1046/j.1365-2842.2003.01006.x', pii=None, title='Physico-mechanical properties of a fast-set highly viscous gic restorative', subtype='ar', creator='Yap A.', authname='Yap A.;Pek Y.;Cheang P.', authid='7103215953;6508226477;7007080635', afid='60109095-60030743-60109095;;60005510', coverDate='2003-01-01', coverDisplayDate='1 January 2003', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='30', issueIdentifier='1', pageRange='1-8', citedby_count='44', openaccess='0'), Document(eid='2-s2.0-0036780435', doi='10.1046/j.1365-2842.2002.00973.x', pii=None, title='Scanning electron microscopic and energy dispersive spectrometric investigations on the effect of XeCl excimer laser on human dentin with smear layer', subtype='ar', creator='Pradeep Kumar A.', authname='Pradeep Kumar A.;Subba Rao C.;Parameswaran A.;Kishen A.;Lim C.', authid='55857733300;57191614007;57197401431;9939833500;7403654491', afid='60031645;60031645;60031645;60005510;60005510', coverDate='2002-10-01', coverDisplayDate='October 2002', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='29', issueIdentifier='10', pageRange='1003-1009', citedby_count='2', openaccess='0'), Document(eid='2-s2.0-0036779864', doi='10.1046/j.1365-2842.2002.00928.x', pii=None, title='Localization of TMJ sounds to side', subtype='ar', creator='Widmalm S.', authname='Widmalm S.;Williams W.;Ang B.;Mckay D.', authid='7004630851;35582178100;36784489600;7201908901', afid='60025778-60025778;60025778;60005510;', coverDate='2002-10-01', coverDisplayDate='October 2002', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='29', issueIdentifier='10', pageRange='911-917', citedby_count='9', openaccess='0'), Document(eid='2-s2.0-0036654026', doi='10.1046/j.1365-2842.2002.00908.x', pii=None, title='Mechanical properties of two restorative reinforced glass-ionomer cements', subtype='ar', creator='Yap A.', authname='Yap A.;Cheang P.;Chay P.', authid='7103215953;7007080635;9637923200', afid='60017161-60109095;60005510;60005510', coverDate='2002-07-01', coverDisplayDate='July 2002', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='29', issueIdentifier='7', pageRange='682-688', citedby_count='24', openaccess='0'), Document(eid='2-s2.0-0035513646', doi='10.1016/S0300-5712(01)00048-3', pii='S0300571201000483', title='Analysis on the nature of thermally induced deformation in human dentine by electronic speckle pattern interferometry (ESPI)', subtype='ar', creator='Kishen A.', authname='Kishen A.;Murukeshan V.;Krishnakumar V.;Asundi A.', authid='9939833500;56881758000;57200585248;7102304400', afid='60031307;60031307;60031307;60031307', coverDate='2001-01-01', coverDisplayDate='November 2001', publicationName='Journal of Dentistry', issn='03005712', source_id='25686', aggregationType='Journal', volume='29', issueIdentifier='8', pageRange='531-537', citedby_count='31', openaccess='0'), Document(eid='2-s2.0-0034045848', doi='10.1016/S0003-9969(00)00031-5', pii='S0003996900000315', title='A strain gauge and photoelastic analysis of in vivo strain and in vitro stress distribution in human dental supporting structures', subtype='ar', creator='Asundi A.', authname='Asundi A.;Kishen A.', authid='7102304400;9939833500', afid='60031307;60005510', coverDate='2000-07-01', coverDisplayDate='1 July 2000', publicationName='Archives of Oral Biology', issn='00039969', source_id='24634', aggregationType='Journal', volume='45', issueIdentifier='7', pageRange='543-550', citedby_count='64', openaccess='0'), Document(eid='2-s2.0-0033114011', doi='10.1111/j.1600-9657.1999.tb00759.x', pii=None, title='Biomechanics of endodontic endosseous implants - A comparative photoelastic evaluation', subtype='ar', creator='Asundi A.', authname='Asundi A.;Kishen A.', authid='7102304400;9939833500', afid='60005510-60031307;60005510', coverDate='1999-01-01', coverDisplayDate='1999', publicationName='Dental Traumatology', issn='16004469', source_id='24958', aggregationType='Journal', volume='15', issueIdentifier='2', pageRange='83-87', citedby_count='6', openaccess='0'), Document(eid='2-s2.0-0033090409', doi='10.1046/j.1365-2842.1999.00372.x', pii=None, title='False localization of TMJ sounds to side is an important source of error in TMD diagnosis', subtype='ar', creator='Widmalm S.', authname='Widmalm S.;Williams W.;Yang K.', authid='7004630851;35582178100;57198557206', afid='60019369;60025778;60005510', coverDate='1999-01-01', coverDisplayDate='March 1999', publicationName='Journal of Oral Rehabilitation', issn='0305182X', source_id='26156', aggregationType='Journal', volume='26', issueIdentifier='3', pageRange='213-214', citedby_count='9', openaccess='0')]
-<scopus.scopus_search.ScopusSearch object at 0x114c4a748>
-<scopus.scopus_search.ScopusSearch object at 0x114c4a748>
+Not found 10.1038/s41567-018-0209-6 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049608273&origin=inward
+Found  10.1103/PhysRevApplied.10.034025
+Not found 10.1002/adom.201800532 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85052631550&origin=inward
+Not found None https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0242675979&origin=inward
+Not found 10.1038/d41586-018-05806-6 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051091995&origin=inward
+Not found 10.1002/adma.201706683 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047510830&origin=inward
+Not found 10.1038/s41567-018-0138-4 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046899785&origin=inward
+Not found 10.1002/lpor.201800002 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051728455&origin=inward
+Found  10.1002/advs.201700922
+Not found 10.1002/lpor.201800049 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047202808&origin=inward
+Not found 10.1021/acsphotonics.7b01534 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045583835&origin=inward
+Not found 10.1063/1.5009626 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041314086&origin=inward
+Not found 10.1007/s12274-017-1792-z https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85028981161&origin=inward
+Not found 10.1038/nphys4304 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041690700&origin=inward
+Not found 10.1088/2040-8986/aa99ad https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039779637&origin=inward
+Not found 10.1364/OL.43.000050 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039552694&origin=inward
+Not found 10.1364/CLEO_QELS.2018.FM4Q.4 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048931595&origin=inward
+Not found 10.1364/CLEO_QELS.2018.FF2L.6 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048935264&origin=inward
+Found  10.1002/advs.201800661
+Not found 10.1364/CLEO_QELS.2018.FM4J.8 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048937181&origin=inward
+Not found 10.1364/CLEO_QELS.2018.FM4J.6 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85048939000&origin=inward
+Not found 10.1088/2053-1583/aa9643 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85040120543&origin=inward
+Found  10.1103/PhysRevB.96.201402
+Not found 10.1364/CLEO_QELS.2017.FM1F.7 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85020636665&origin=inward
+Not found 10.1364/OE.25.023725 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85030265473&origin=inward
+Found  10.1063/1.4993300
+Not found 10.1364/OL.42.002890 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026479767&origin=inward
+Not found 10.1002/adma.201700018 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018987201&origin=inward
+Not found 10.1364/OE.25.015772 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021895804&origin=inward
+Found  10.1073/pnas.1701830114
+Found  10.1103/PhysRevLett.118.194301
+Found  10.1103/PhysRevB.95.014306
+Found  10.1126/sciadv.1601192
+Found  10.1103/PhysRevB.94.220304
+Found  10.1002/adfm.201602233
+Found  10.1088/1367-2630/aa4fa9
+Found  10.1103/PhysRevLett.117.224301
+Found  10.1063/1.4963707
+Found  10.1038/srep33764
+Found  10.1038/srep29202
+Found  10.1038/srep28346
+Found  10.1038/ncomms11619
+Found  10.1103/PhysRevB.93.195410
+Found  10.1038/srep25576
+Found  10.1038/srep24447
+Not found 10.1016/j.cma.2015.12.020 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84954215234&origin=inward
+Found  10.1088/2040-8978/18/4/044008
+Not found 10.1088/2040-8978/18/4/044006 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84962840671&origin=inward
+Found  10.1063/1.4944461
+Found  10.1038/srep21741
+Not found 10.1364/OL.41.000681 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84962074270&origin=inward
+Found  10.1063/1.4940906
+Not found 10.1109/APCAP.2015.7374370 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84978402700&origin=inward
+Not found 10.1109/APCAP.2015.7374264 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84978386258&origin=inward
+Found  10.1063/1.4935360
+Found  10.1063/1.4930989
+Found  10.1103/PhysRevB.92.081404
+Found  10.1063/1.4927658
+Found  10.1002/lpor.201500020
+Found  10.1073/pnas.1508777112
+Found  10.1038/srep10401
+Found  10.1063/1.4913996
+Found  10.1103/PhysRevLett.114.114301
+Not found 10.1002/lpor.201500117 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84942191603&origin=inward
+Not found 10.1364/OE.23.006896 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84938217211&origin=inward
+Not found 10.1021/ph5002457 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84924623155&origin=inward
+Found  10.1038/srep05212
+Found  10.1038/srep04190
+Found  10.1103/PhysRevLett.112.054301
+Found  10.1364/OE.22.006519
+Found  10.1209/0295-5075/106/27005
+Not found 10.1109/APCAP.2014.6992692 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84921420930&origin=inward
+Not found 10.1007/s11432-013-5030-3 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84889260385&origin=inward
+Not found 10.1007/s11432-013-5033-0 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84889254403&origin=inward
+Found  10.1038/ncomms3652
+Found  10.1088/1367-2630/15/11/113003
+Found  10.1364/OL.38.002988
+Found  10.1364/OE.21.006650
+Found  10.1039/c3tc00629h
+Found  10.1039/c2tc00570k
+Not found 10.1038/lsa.2012.32 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878251860&origin=inward
+Found  10.1109/META.2012.6464937
+Found  10.1103/PhysRevLett.109.223903
+Found  10.1109/OMEMS.2012.6318773
+Found  10.1038/srep00784
+Found  10.1109/OMEMS.2012.6318858
+Found  10.1039/c2jm32715e
+Found  10.1364/OE.20.001617
+Found  10.1364/JOSAB.29.001287
+Found  10.1109/OMEMS.2011.6031093
+Not found 10.1016/j.optcom.2011.06.028 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=80051550581&origin=inward
+Found  10.1103/PhysRevLett.106.033901
+Not found 10.1364/JOSAB.28.002633 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=80155183223&origin=inward
+Found  10.1364/OL.35.004148
+Not found 10.1109/OMEMS.2010.5672142 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=78751482887&origin=inward
+Found  10.1364/OL.35.002681
+Found  10.1103/PhysRevLett.104.253903
+Found  10.1103/PhysRevLett.104.233903
+Found  10.1364/OE.18.011216
+Found  10.1364/OL.35.000667
+Not found 10.2528/PIER09112002 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=76749119071&origin=inward
+Found  10.1063/1.3264635
+Found  10.1103/PhysRevLett.103.243901
+Found  10.1109/APS.2009.5172328
+Found  10.1364/JOSAB.26.002117
+Found  10.1364/JOSAB.26.001831
+Found  10.1103/PhysRevA.80.011808
+Found  10.1364/OE.17.013467
+Found  10.1364/OE.17.006721
+Found  10.1103/PhysRevB.79.155122
+Not found 10.2528/PIER09100704 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=70350638871&origin=inward
+Not found 10.1163/156939308786390166 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=52049095048&origin=inward
+Found  10.1364/OE.16.014655
+Found  10.1103/PhysRevLett.101.063902
+Found  10.1103/PhysRevLett.100.063904
+Not found 10.1103/PhysRevLett.99.149901 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=35148871689&origin=inward
+Found  10.1103/PhysRevB.76.121101
+Found  10.1103/PhysRevLett.99.063903
+Not found 10.1109/TDEI.2007.344631 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=34147176034&origin=inward
+Not found 10.1016/j.elstat.2005.03.056 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=18244372443&origin=inward
+Not found 10.1016/j.elstat.2005.03.080 https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=18244382787&origin=inward

@@ -1,8 +1,8 @@
-
 import imp
 import scopus
 from scopus import AuthorRetrieval
 from scopus import AbstractRetrieval
+import pandas as pd
 au = AuthorRetrieval(18439033600)
 
 eids = pd.DataFrame(au.get_document_eids(refresh=False))
