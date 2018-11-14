@@ -1,18 +1,22 @@
 import sys
-sys.stdout = open('result.csv','wt')
+# redirect output
+sys.stdout = open('compareResult.csv','wt')
 
+# read the csv and store it as dictionary of DOI : URL
 import csv
 resultScopus = {}
-with open('doi.txt') as csvDataFile:
+with open('doiScopus.txt') as csvDataFile:
     csvReader = csv.reader(csvDataFile, delimiter=',')
     for row in csvReader:
         resultScopus[row[0]]=row[1]
 
+# read the csv from DR-NTU DOIs
 resultNTU = []
-with open("regex.csv", "r") as ins:
+with open("DR-NTU_ExtractDOI.csv", "r") as ins:
     for line in ins:
         resultNTU.append(line[:-1])
 
+# compare and output
 for r in resultScopus:
     if r in resultNTU:
         print("Found",end=",")

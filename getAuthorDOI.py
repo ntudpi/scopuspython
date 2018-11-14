@@ -15,7 +15,7 @@ eids = pd.DataFrame(au.get_document_eids(refresh=False))
 
 # direct the stdout print to text file
 import sys
-sys.stdout = open('doi{}.txt'.format(author_id),'wt')
+sys.stdout = open('doiScopus.txt','wt')
 
 # get the number of DOI pulled
 n=len(eids[0])

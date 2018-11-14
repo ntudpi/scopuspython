@@ -1,5 +1,6 @@
 import csv
 import sys
+import re
 
 # redirect stdout print to file
 sys.stdout = open('DR-NTU_ExtractDOI.csv','wt')
