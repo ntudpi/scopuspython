@@ -1,0 +1,35 @@
+2018-11-12 15:31:47,680 - elsapy.elsclient - INFO - Module loaded.
+2018-11-12 15:31:47,683 - elsapy.elsentity - INFO - Module loaded.
+2018-11-12 15:31:47,684 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-12 15:31:47,686 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-12 15:31:47,688 - elsapy.elssearch - INFO - Module loaded.
+2018-11-12 15:31:48,682 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-12 15:33:17,655 - elsapy.elsclient - INFO - Module loaded.
+2018-11-12 15:33:17,656 - elsapy.elsentity - INFO - Module loaded.
+2018-11-12 15:33:17,656 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-12 15:33:17,657 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-12 15:33:17,657 - elsapy.elssearch - INFO - Module loaded.
+2018-11-12 15:33:21,628 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-12 15:35:03,329 - elsapy.elsclient - INFO - Module loaded.
+2018-11-12 15:35:03,330 - elsapy.elsentity - INFO - Module loaded.
+2018-11-12 15:35:03,330 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-12 15:35:03,331 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-12 15:35:03,331 - elsapy.elssearch - INFO - Module loaded.
+2018-11-12 15:47:24,565 - elsapy.elsclient - INFO - Module loaded.
+2018-11-12 15:47:24,642 - elsapy.elsentity - INFO - Module loaded.
+2018-11-12 15:47:24,643 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-12 15:47:24,646 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-12 15:47:24,647 - elsapy.elssearch - INFO - Module loaded.
+2018-11-12 15:47:25,642 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-12 16:27:17,639 - elsapy.elsclient - INFO - Module loaded.
+2018-11-12 16:27:17,640 - elsapy.elsentity - INFO - Module loaded.
+2018-11-12 16:27:17,640 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-12 16:27:17,641 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-12 16:27:17,641 - elsapy.elssearch - INFO - Module loaded.
+2018-11-12 16:27:18,640 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-12 16:29:19,119 - elsapy.elsclient - INFO - Module loaded.
+2018-11-12 16:29:19,119 - elsapy.elsentity - INFO - Module loaded.
+2018-11-12 16:29:19,120 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-12 16:29:19,120 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-12 16:29:19,121 - elsapy.elssearch - INFO - Module loaded.
+2018-11-12 16:29:20,120 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600

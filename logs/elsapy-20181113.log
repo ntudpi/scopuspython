@@ -1,0 +1,14 @@
+2018-11-13 11:03:44,801 - elsapy.elsclient - INFO - Module loaded.
+2018-11-13 11:03:44,805 - elsapy.elsentity - INFO - Module loaded.
+2018-11-13 11:03:44,807 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-13 11:03:44,811 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-13 11:03:44,814 - elsapy.elssearch - INFO - Module loaded.
+2018-11-13 11:03:45,803 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-13 11:03:48,560 - elsapy.elsentity - INFO - Data loaded for http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-13 11:17:37,767 - elsapy.elsclient - INFO - Module loaded.
+2018-11-13 11:17:37,767 - elsapy.elsentity - INFO - Module loaded.
+2018-11-13 11:17:37,767 - elsapy.elsprofile - INFO - Module loaded.
+2018-11-13 11:17:37,768 - elsapy.elsdoc - INFO - Module loaded.
+2018-11-13 11:17:37,769 - elsapy.elssearch - INFO - Module loaded.
+2018-11-13 11:17:38,768 - elsapy.elsclient - INFO - Sending GET request to http://api.elsevier.com/content/author/author_id/18439033600
+2018-11-13 11:17:41,321 - elsapy.elsentity - INFO - Data loaded for http://api.elsevier.com/content/author/author_id/18439033600

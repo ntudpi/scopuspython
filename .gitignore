@@ -1,0 +1,4 @@
+*.txt
+*.csv
+ENV/
+logs/
