@@ -1,9 +1,13 @@
 # Scopus DPI documentation
 ## Checking the completeness of one author's collection
 ### Prerequisites
-You need a file `NTU_DOI.csv` **without header**, and DR-NTU DOI link as the third column
+You need a file `NTU_DOI.csv`, and DR-NTU DOI link as the third column
 You need a machine with Python3, preferably Python 3.6.6 installed.
 Install `imp`, `requests`, and `pandas` and `scopus` using `pip3` install.
+For newly installed python3, you may also need to install pbr if you encounter the below error:
+```bash
+Command "python setup.py egg_info" failed with error code 1 in /private/var/folders/r8/2tmjwrx168ggntqdhtqf7sgc0000gp/T/pip-install-srbso_i8/scopus/
+```
 ### Steps
 Clone this repository to get the code.
 Put the `NTU_DOI.csv` file in the repository root directory.
