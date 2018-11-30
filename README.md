@@ -1,9 +1,9 @@
 # Scopus DPI documentation
 ## Checking the completeness of one author's collection
 ### Prerequisites
-You need a file `NTU_DOI.csv` without header, and DR-NTU DOI link as the third column
+You need a file `NTU_DOI.csv` **without header**, and DR-NTU DOI link as the third column
 You need a machine with Python3, preferably Python 3.6.6 installed.
-Install `imp`, and `scopus` using `pip3` install.
+Install `imp`, `requests`, and `pandas` and `scopus` using `pip3` install.
 ### Steps
 Clone this repository to get the code.
 Put the `NTU_DOI.csv` file in the repository root directory.
