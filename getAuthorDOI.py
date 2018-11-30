@@ -13,15 +13,22 @@ au = AuthorRetrieval(author_id)
 # parse the data as DataFrame
 eids = pd.DataFrame(au.get_document_eids(refresh=False))
 
-# direct the stdout print to text file
-import sys
-sys.stdout = open('doiScopus.txt','wt')
 
 # get the number of DOI pulled
 n=len(eids[0])
 
+data = []
+
 for i in range(n):
+    print("Pulling data for " + eids[0][i] + " ... ")
     # pull the details of the article, FULL means get all the fields.
     ab = AbstractRetrieval(eids[0][i], view='FULL')
-    print(ab.doi, end=",")
-    print(ab.scopus_link)
+    data.append([ab.doi,ab.scopus_link])
+
+
+# direct the stdout print to text file
+import sys
+sys.stdout = open('doiScopus.txt','wt')
+for datum in data:
+    print(datum[0],end=",")
+    print(datum[1])
