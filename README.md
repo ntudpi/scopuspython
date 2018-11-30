@@ -47,7 +47,7 @@ Notice the line with `scopus\utils\startup.py", line 23`. Follow the file path a
 For UNIX based system, delete the whole content of the `~/.scopus/` directory except the file `config.ini`. The problem should be caused because of false caching (the library believe that it was cached probably but turns out the cache is empty)
 
 ### `with open(qfile, 'wb') as f: FileNotFoundError: [Errno 2] No such file or directory: '/Users/DPI/.scopus/author_retrieval/18439033600'`
-Delete the whole `~/.scopus/' directory. Uninstall the scopus using `pip3 uninstall scopus` and reinstall.
+Delete the whole `~/.scopus/` directory. Uninstall the scopus using `pip3 uninstall scopus` and reinstall.
 
 ### `UserWarning: scopus did not find a configuration file`
 Run the python3 bash, then
